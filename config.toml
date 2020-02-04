@@ -5,7 +5,7 @@ languageCode = "ja-jp"
 hasCJKLanguage = true
 
 # googleAnalytics = "UA-XXXXXXXX-XX" # Optional
-disqusShortname = "XYW"
+disqusShortname = "kintsuba-blog"
 
 [params]
 description = "About my happiness."
