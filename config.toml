@@ -1,0 +1,31 @@
+baseurl = "https://kintsuba.blog/"
+title = "Kintsuba's Blog"
+theme = "hugo_theme_robust"
+languageCode = "ja-jp"
+hasCJKLanguage = true
+
+# googleAnalytics = "UA-XXXXXXXX-XX" # Optional
+disqusShortname = "XYW"
+
+[params]
+description = "About my happiness."
+dateformat = "Jan 2, 2006" # Optional
+# Fonts settings.
+googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
+[params.author]
+thumbnail = "images/user_icon.webp"
+name = "きんつば"
+description = "<p>私は私。</p>"
+twitter = "https://twitter.com/awhcs"
+github = "https://github.com/kintsuba"
+
+[outputs]
+page = [ "HTML", "AMP" ] # if you want AMP enable.
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
