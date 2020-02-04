@@ -18,7 +18,7 @@ logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 [params.author]
 thumbnail = "images/user_icon.webp"
 name = "きんつば"
-description = "<p>私は私。</p>"
+description = "<p>私は私として生きていくのだ。</p><p>↓普段はここにいます<br /><a href='https://misskey.m544.net/@kintsuba'>https://misskey.m544.net/@kintsuba</a></p>"
 twitter = "https://twitter.com/awhcs"
 github = "https://github.com/kintsuba"
 
