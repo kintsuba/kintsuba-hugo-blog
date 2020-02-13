@@ -20,6 +20,6 @@ thumbnail: "images/2019/runefactory4_xiao.webp"
 
 そして何より、HD化で綺麗になった嫁！シャオパイちゃん可愛いよ！
 
-{{< figure src="/images/2019/runefactory4_xiao.webp" height="240" >}}
+{{% img src="/images/2019/runefactory4_xiao.jpg" h="240" %}}
 
 ……この娘、レベルが上がると、転ぶと爆発するようになるんですよね。うーん、謎。
