@@ -42,7 +42,9 @@ tags:
 
 ### その他
 #### 幻想人形演舞
+
 {{% ogp "https://misskey.m544.net/notes/717029a269c70c7ebbc8d7a5" %}}
+
 今更ですが、図鑑完成させました。
 
 #### 無双OROCHI3

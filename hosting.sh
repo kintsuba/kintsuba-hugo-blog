@@ -1,4 +1,4 @@
 #!/bin/bash
 
-hugo.exe
+hugo.exe --ignoreCache
 firebase deploy
