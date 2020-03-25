@@ -18,22 +18,22 @@ Pastebin: https://pastebin.com/5LjS42Jt
 
 ### Skill Gem
 
-- Lv1: Ground Slam + Ruthless
-- Lv8: Ground Slam + Ruthless + Maim + Added Fire Damage
+- Lv1: Ground Slam &#x2b; Ruthless
+- Lv8: Ground Slam &#x2b; Ruthless &#x2b; Maim &#x2b; Added Fire Damage
 - Lv10: Precision
-- Lv12: Sunder + Ruthless + Maim + Added Fire Damage
-- Lv24: Precision + Hatred
+- Lv12: Sunder &#x2b; Ruthless &#x2b; Maim &#x2b; Added Fire Damage
+- Lv24: Precision &#x2b; Hatred
 - Lv28: 
-  - Cyclone + Infused Channeling + Maim + Added Fire Damage
+  - Cyclone &#x2b; Infused Channeling &#x2b; Maim &#x2b; Added Fire Damage
   - Equip "Edge of Madness" now if you use it.
 - Lv38: 
-  - Cyclone + Infused Channeling + Increased Area of Effect + Added Fire Damage
+  - Cyclone &#x2b; Infused Channeling &#x2b; Increased Area of Effect &#x2b; Added Fire Damage
   - For facing boss: Change Inc AoE to Concentrated Effect
 - Lv67:
-  - Main: Flicker Strike + Multistrike + Melee Splash + Combustion + Elemental Damage with Attacks - Close Combat
-  - Aura: Precision + Anger
+  - Main: Flicker Strike &#x2b; Multistrike &#x2b; Melee Splash &#x2b; Combustion &#x2b; Elemental Damage with Attacks - Close Combat
+  - Aura: Precision &#x2b; Anger
   - Equip "Oro's Sacrifice".
-  - If you can buy Fire "Impresence", can use Flammability + Blasphemy.
+  - If you can buy Fire "Impresence", can use Flammability &#x2b; Blasphemy.
 
 ### Passive Tree
 
