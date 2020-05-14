@@ -97,6 +97,6 @@ tags:
 #### リーダー
 - [ガンダムAGE-FX](https://w.atwiki.jp/generation-crossrays/pages/1265.html)：[エリス・クロード](https://w.atwiki.jp/generation-crossrays/pages/28.html)
 #### 小隊員
-- [ガンダムアストレイ ゴールドフレーム天ミナ](https://w.atwiki.jp/generation-crossrays/pages/799.html)：[ロンド・ミナ・サハク](https://w.atwiki.jp/generation-crossrays/pages/738.html)
+- [辟邪](https://w.atwiki.jp/generation-crossrays/pages/251.html)：[ラフタ・フランクランド(第2期)](https://w.atwiki.jp/generation-crossrays/pages/1243.html)
 - [ノーベルガンダム](https://w.atwiki.jp/generation-crossrays/pages/1260.html)：[アレンビー・ビアズリー](https://w.atwiki.jp/generation-crossrays/pages/1270.html)
 - [レギンレイズ・ジュリア](https://w.atwiki.jp/generation-crossrays/pages/530.html)：[ジュリエッタ・ジュリス](https://w.atwiki.jp/generation-crossrays/pages/1252.html)
