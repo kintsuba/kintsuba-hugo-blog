@@ -5,7 +5,7 @@ categories:
 - Social
 tags:
 - VRChat
-thumbnail:
+thumbnail: "images/2020/vrchat-1.png"
 ---
 まだまだ残暑の残る季節、いかがお過ごしでしょうか。お久しぶりなきんつばです。  
 正直このブログ見るより Twitter か Misskey 見た方がいいと思います。
@@ -88,3 +88,5 @@ VRChat と Misskey は関係ないだろ、いい加減にしろと思ったあ�
 でもそれ以上に、優しくしてくれる人がいて、気にかけてくれる人がいて、そばにいてくれる人がいて、笑ってくれる人がいます。
 
 私はもう1人じゃない、今はそれがとても幸せです。
+
+{{% img src="/images/2020/vrchat-2.png" w="640" h="360" %}}
