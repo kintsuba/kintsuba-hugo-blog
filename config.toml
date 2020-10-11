@@ -17,7 +17,7 @@ logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 OgpApiEndpoint = "http://kintsuba.dev:3000/ogp?url="
 
 [params.author]
-thumbnail = "images/user_icon.webp"
+thumbnail = "images/user_icon.jpg"
 name = "きんつば"
 description = "<p>私は私として生きていくのだ。</p><p>↓普段はここにいます<br /><a href='https://misskey.m544.net/@kintsuba'>https://misskey.m544.net/@kintsuba</a></p>"
 twitter = "https://twitter.com/awhcs"
