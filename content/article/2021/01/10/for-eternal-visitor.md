@@ -50,7 +50,7 @@ VRChat やってますか？やってましたか？
 
 こちらの記事も是非参考にしてください。
 
-{{< hatena title="#Quest #Quest2 の #VRChat 初心者向け最高速攻略法「24時間いつでも日本人が必ずいる #クエ集 」へ行こう！" url="https://hatenablog-parts.com/embed?url=https://note.com/nyano_vr/n/n9859394034c9" >}}
+{{< hatena title="#Quest #Quest2 の #VRChat 初心者向け最高速攻略法「24時間いつでも日本人が必ずいる #クエ集 」へ行こう！" url="https://note.com/nyano_vr/n/n9859394034c9" >}}
 
 ### それでも話しかけられない
 
