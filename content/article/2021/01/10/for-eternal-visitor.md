@@ -78,7 +78,7 @@ join できるような状態なのが悪いのでどんどん join しましょ
 
 そんな筋金入りのコミュ障のあなた！URL 貼っておくので、さっさと諦めて私とフレンドになりましょう。
 
-https://www.vrchat.com/home/user/usr_a5587125-06fd-463c-8ce0-80a036deab69
+{{< hatena title="VRChat user Kintsuba" url="https://www.vrchat.com/home/user/usr_a5587125-06fd-463c-8ce0-80a036deab69" >}}
 
 加えて [Twitter](https://twitter.com/awhcs) の方にも声をかけてもらえれば、join するタイミングを合わせられると思います。
 
