@@ -2,6 +2,7 @@
 title: ニンジャ 4 と駆ける TFT（パッチ 11.5）
 date: 2021-03-07T00:07:03+09:00
 draft: false
+thumbnail: "/images/2021/TFT/Kennen_0.jpg"
 categories:
   - Gaming
 tags:
