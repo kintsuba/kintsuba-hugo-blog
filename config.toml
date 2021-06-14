@@ -14,7 +14,7 @@ dateformat = "Jan 2, 2006" # Optional
 googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
 fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
 logofontfamily = "Lobster, cursive" # Optional, Override logo font.
-OgpApiEndpoint = "http://kintsuba.dev:3000/ogp?url="
+OgpApiEndpoint = "http://133.130.102.26:3000/ogp?url="
 
 [params.author]
 thumbnail = "images/user_icon.jpg"
