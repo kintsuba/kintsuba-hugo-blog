@@ -7,7 +7,7 @@ tags:
   - MTG
   - EDH
   - Eye
-thumbnail: images/2021/MTG/evil-eye-of-urborg-thumnail.jpg
+thumbnail: images/2021/MTG/eyetwitch-thumnail.jpg
 toc: true
 draft: false
 ---
