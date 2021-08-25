@@ -14,11 +14,11 @@ draft: false
 
 ## クリーチャー選定 (4 マナ以下)
 
-「ここからは、1 (絶対に不採用) ～ 10 (絶対に採用) の 10 段階で、どのカードを採用するかを考えていくで！」
+「ここからは、[前回]({{< ref "edh-eye-part1.md" >}})のリストのカードを 1 枚ずつ 1 (絶対に不採用) ～ 10 (絶対に採用) の 10 段階で、どのカードを採用するかを考えていくで！」
 
 ### 《巧射艦隊の追跡者/Deadeye Tracker》
 
-{{% img src="/images/2021/MTG/deadeye-tracker.png" w="298" h="416" %}}
+{{< cardimg src="deadeye-tracker.png" >}}
 
 「墓地対策になるし、マナフラ受けにもなるな。ぜひ採用したい 1 枚やで」
 
@@ -26,7 +26,7 @@ draft: false
 
 ### 《龍の眼の歩哨/Dragon's Eye Sentry》
 
-{{% img src="/images/2021/MTG/dragon-s-eye-sentry.png" w="298" h="416" %}}
+{{< cardimg src="dragon-s-eye-sentry.png" >}}
 
 「弱くはないけど、EDH で 1/3 は正直力不足やな」
 
@@ -34,7 +34,7 @@ draft: false
 
 ### 《目玉収集家/Eye Collector》
 
-{{% img src="/images/2021/MTG/eye-collector.png" w="298" h="416" %}}
+{{< cardimg src="eye-collector.png" >}}
 
 「飛行 1/1 は悪くないけど、もう 1 つの効果がいまいちやな。もう一押し欲しいところや」
 
@@ -42,7 +42,7 @@ draft: false
 
 ### 《ひきつり目/Eyetwitch》
 
-{{% img src="/images/2021/MTG/eyetwitch.png" w="298" h="416" %}}
+{{< cardimg src="eyetwitch.png" >}}
 
 「新人の眼やな。当然採用や。飛行 1/1 にルーター効果もあって普通に使えそうやな」
 
@@ -50,7 +50,7 @@ draft: false
 
 ### 《龍の眼の学者/Dragon's Eye Savants》
 
-{{% img src="/images/2021/MTG/dragon-s-eye-savants.png" w="298" h="416" %}}
+{{< cardimg src="dragon-s-eye-savants.png" >}}
 
 「壁として優秀やな。変異は正直使わへんし使えへんが、あって困るもんでもないな」
 
@@ -58,7 +58,7 @@ draft: false
 
 ### 《燃えさし眼の狼/Ember-Eye Wolf》
 
-{{% img src="/images/2021/MTG/ember-eye-wolf.png" w="298" h="416" %}}
+{{< cardimg src="ember-eye-wolf.png" >}}
 
 「色マナの不安定なこのデッキじゃ使えへんな」
 
@@ -66,7 +66,7 @@ draft: false
 
 ### 《ミルカイト/Eyekite》
 
-{{% img src="/images/2021/MTG/eyekite.png" w="298" h="416" %}}
+{{< cardimg src="eyekite.png" >}}
 
 「飛行は魅力的やけど、効果はほとんど使えそうにないな」
 
@@ -74,7 +74,7 @@ draft: false
 
 ### 《天望の騎士/Knight of the Skyward Eye》
 
-{{% img src="/images/2021/MTG/knight-of-the-skyward-eye.png" w="298" h="416" %}}
+{{< cardimg src="knight-of-the-skyward-eye.png" >}}
 
 「2/2 で (3)(G) 払えば 5/5 になるクリーチャーか。弱くはないけどなぁ」
 
@@ -82,7 +82,7 @@ draft: false
 
 ### 《鼠の墓荒らし/Nezumi Graverobber》、《冒涜する者、夜目/Nighteyes the Desecrator》
 
-{{% img src="/images/2021/MTG/nezumi-graverobber.png" w="298" h="416" %}}
+{{< cardimg src="nezumi-graverobber.png" >}}
 
 「反転する前は墓地対策、反転してからは (4)(B) 払うことで無条件なリアニメイトができる強力なカードやな。入れない理由がないで」
 
@@ -90,7 +90,7 @@ draft: false
 
 ### 《冷淡なセルキー/Cold-Eyed Selkie》
 
-{{% img src="/images/2021/MTG/cold-eyed-selkie.png" w="298" h="416" %}}
+{{< cardimg src="cold-eyed-selkie.png" >}}
 
 「貴重なドロソというだけで採用できるし、混成マナだから出しやすいのもええな。あと青に対して強いのが好印象や」
 
@@ -98,7 +98,7 @@ draft: false
 
 ### 《銛撃ちの名手/Deadeye Harpooner》
 
-{{% img src="/images/2021/MTG/deadeye-harpooner.png" w="298" h="416" %}}
+{{< cardimg src="deadeye-harpooner.png" >}}
 
 「決して弱くはないんやが、条件も効果もスタッツも全部中途半端やな」
 
@@ -106,7 +106,7 @@ draft: false
 
 ### 《巧射艦隊の拷問者/Deadeye Tormentor》
 
-{{% img src="/images/2021/MTG/deadeye-tormentor.png" w="298" h="416" %}}
+{{< cardimg src="deadeye-tormentor.png" >}}
 
 「EDH だと 1 人にだけハンデスするのはあんまり強くないんよなぁ」
 
@@ -114,7 +114,7 @@ draft: false
 
 ### 《眼腐りの暗殺者/Eyeblight Assassin》
 
-{{% img src="/images/2021/MTG/eyeblight-assassin.png" w="298" h="416" %}}
+{{< cardimg src="eyeblight-assassin.png" >}}
 
 「修正値が低すぎるなぁ。優先度は低めやな」
 
@@ -122,7 +122,7 @@ draft: false
 
 ### 《宝石眼のコブラ/Jewel-Eyed Cobra》
 
-{{% img src="/images/2021/MTG/jewel-eyed-cobra.png" w="298" h="416" %}}
+{{< cardimg src="jewel-eyed-cobra.png" >}}
 
 「何をどう考えても強いな？なんでこいつがコモンなんや」
 
@@ -130,7 +130,7 @@ draft: false
 
 ### 《遠目の射手/Keen-Eyed Archers》
 
-{{% img src="/images/2021/MTG/keen-eyed-archers.png" w="298" h="416" %}}
+{{< cardimg src="keen-eyed-archers.png" >}}
 
 「到達持ちの 2/2 やが、あまりにもカードパワーが低すぎるな」
 
@@ -138,7 +138,7 @@ draft: false
 
 ### 《鋭い目の航海士、マルコム/Malcolm, Keen-Eyed Navigator》
 
-{{% img src="/images/2021/MTG/malcolm-keen-eyed-navigator.png" w="298" h="416" %}}
+{{< cardimg src="malcolm-keen-eyed-navigator.png" >}}
 
 「海賊自体は多いわけやないけど、飛行と宝物生成能力は十分すぎる魅力やな」
 
@@ -146,7 +146,7 @@ draft: false
 
 ### 《片目のカカシ/One-Eyed Scarecrow》
 
-{{% img src="/images/2021/MTG/one-eyed-scarecrow.png" w="298" h="416" %}}
+{{< cardimg src="one-eyed-scarecrow.png" >}}
 
 「最低限のスタッツで悪くない能力やな。無色やから色事故が起きないのもええな」
 
@@ -154,7 +154,7 @@ draft: false
 
 ### 《今田の用心棒、乳眼/Opal-Eye, Konda's Yojimbo》
 
-{{% img src="/images/2021/MTG/opal-eye-konda-s-yojimbo.png" w="298" h="416" %}}
+{{< cardimg src="opal-eye-konda-s-yojimbo.png" >}}
 
 「効果自体は強いんやが、色拘束がキツイのがネックやなぁ」
 
@@ -162,7 +162,7 @@ draft: false
 
 ### 《巡礼者の目/Pilgrim's Eye》
 
-{{% img src="/images/2021/MTG/pilgrim-s-eye.png" w="298" h="416" %}}
+{{< cardimg src="pilgrim-s-eye.png" >}}
 
 「無色 3 マナ、飛行 1/1、ETB で基本土地サーチ。入れない理由がないな？」
 
@@ -170,7 +170,7 @@ draft: false
 
 ### 《さまよう眼/Wandering Eye》
 
-{{% img src="/images/2021/MTG/wandering-eye.png" w="298" h="416" %}}
+{{< cardimg src="wandering-eye.png" >}}
 
 「全員に手札を見せながらのプレイを強いるで！手札の眼を見せつけることで、相手に正常な判断をできなくさせるんや」
 
@@ -178,7 +178,7 @@ draft: false
 
 ### 《イボ眼の魔女/Warteye Witch》
 
-{{% img src="/images/2021/MTG/warteye-witch.png" w="298" h="416" %}}
+{{< cardimg src="warteye-witch.png" >}}
 
 「占術は旨いし、スタッツも悪くないのがええな」
 
@@ -186,7 +186,7 @@ draft: false
 
 ## クリーチャー選定 (5 マナ以上)
 
-Part3 へ続く！
+[Part3]({{< ref "../../25/edh-eye-part3.md" >}}) へ続く！
 
 ## クレジット
 

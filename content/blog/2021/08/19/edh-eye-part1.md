@@ -137,7 +137,7 @@ thumbnail: images/2021/MTG/evil-eye-of-urborg-thumnail.jpg
 
 ## さらなるカード選定
 
-[Part2]({{< ref "edh-eye-part2.md" >}}) へ続く！
+[Part2]({{< ref "../21/edh-eye-part2/index.md" >}}) へ続く！
 
 ## クレジット
 
