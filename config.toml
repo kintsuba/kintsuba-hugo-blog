@@ -3,6 +3,7 @@ title = "Kintsuba's Blog"
 theme = "hugo_theme_robust"
 languageCode = "ja-jp"
 hasCJKLanguage = true
+timeout = 30000
 
 # googleAnalytics = "UA-XXXXXXXX-XX" # Optional
 disqusShortname = "kintsuba-blog"
