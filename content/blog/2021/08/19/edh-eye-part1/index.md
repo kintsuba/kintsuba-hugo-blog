@@ -12,7 +12,7 @@ thumbnail: images/2021/MTG/evil-eye-of-urborg-thumnail.jpg
 
 ## 眼
 
-{{% img src="/images/2021/MTG/evil-eye-of-urborg.png" w="298" h="416" %}}
+{{< cardimg src="evil-eye-of-urborg.png">}}
 
 「アーボーグの邪眼は可愛いなぁ……」
 
@@ -32,7 +32,7 @@ thumbnail: images/2021/MTG/evil-eye-of-urborg-thumnail.jpg
 
 「伝説のクリーチャーで、名前に eye が入ってて、かつ固有色の多いカードなんて存在するわけ……ん？」
 
-{{% img src="/images/2021/MTG/garth-one-eye.png" w="298" h="416" %}}
+{{< cardimg src="garth-one-eye.png">}}
 
 「**おるやん！！！**」
 
@@ -137,7 +137,7 @@ thumbnail: images/2021/MTG/evil-eye-of-urborg-thumnail.jpg
 
 ## さらなるカード選定
 
-[Part2]({{< ref "../21/edh-eye-part2/index.md" >}}) へ続く！
+[Part2]({{< ref "../../21/edh-eye-part2/index.md" >}}) へ続く！
 
 ## クレジット
 
