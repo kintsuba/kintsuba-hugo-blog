@@ -1,6 +1,6 @@
 ---
 title: EDH 用の 《眼/Eye》デッキを作るよ！ Part4
-date: 2021-08-25T15:10:36+09:00
+date: 2021-08-30T10:10:10+09:00
 categories:
   - Gaming
 tags:
@@ -48,27 +48,11 @@ draft: false
 
 評価: **10**
 
-### 《レイモスの眼/Eye of Ramos》
-
-{{< cardimg src="img/eye-of-yawgmoth.png">}}
-
-「このデッキでは超貴重なマナファクトや。入れない理由はないで」
-
-評価: **10**
-
 ### 《ヨーグモスの眼/Eye of Yawgmoth》
 
 {{< cardimg src="img/eye-of-yawgmoth.png">}}
 
 「弱くはないんやけど、このデッキでこんなことしてる余裕はあるんかなぁ」
-
-評価: **4**
-
-### 《目玉の壺/Jar of Eyeballs》
-
-{{< cardimg src="img/jar-of-eyeballs.png">}}
-
-「ヨーグモスの眼と大体同じやなぁ。せやけどイラストの存在感は半端ないな」
 
 評価: **4**
 
@@ -156,7 +140,7 @@ draft: false
 
 ### 《嵐の目/Eye of the Storm》
 
-{{< cardimg src="img/ophidian-eye.png">}}
+{{< cardimg src="img/eye-of-the-storm.png">}}
 
 「こんなんどう考えても相手の方が得するやろ」
 
