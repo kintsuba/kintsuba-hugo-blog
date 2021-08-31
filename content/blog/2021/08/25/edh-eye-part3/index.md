@@ -266,7 +266,7 @@ draft: false
 
 ## クリーチャー以外の選定
 
-Part4 へ続く！
+[Part4]({{< ref "../../30/edh-eye-part4/index.md" >}}) へ続く！
 
 ## クレジット
 
