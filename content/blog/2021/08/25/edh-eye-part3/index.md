@@ -7,7 +7,7 @@ tags:
   - MTG
   - EDH
   - Eye
-thumbnail: images/2021/MTG/evil-eye-of-orms-by-gore-thumnail.jpg
+thumbnail: images/2021/MTG/evil-eye-of-orms-by-gore-thumbnail.jpg
 toc: true
 draft: false
 ---

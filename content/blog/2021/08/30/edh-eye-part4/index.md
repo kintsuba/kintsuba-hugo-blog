@@ -7,7 +7,7 @@ tags:
   - MTG
   - EDH
   - Eye
-thumbnail: images/2021/MTG/mind-s-eye-thumnail.jpg
+thumbnail: images/2021/MTG/mind-s-eye-thumbnail.jpg
 toc: true
 draft: false
 ---
@@ -226,7 +226,7 @@ draft: false
 
 ## デッキ作成
 
-Part5 へ続く！
+[Part5]({{< ref "../../../09/30/edh-eye-part5/index.md" >}}) へ続く！
 
 ## クレジット
 
