@@ -25,31 +25,20 @@ VRChat やってますか？やってましたか？
 
 これはコミュニケーションというよりは IT リテラシーの問題な気がしますが、とはいえ昨今のネット事情だと日本人がいるワールドを探すのも一苦労です。
 
-現時点では（2021/01）、 以下のワールドであれば大抵日本人がいます。
+現時点で（2021/10）、Public インスタンスに日本人が多いのは以下のワールドあたりです。
 
-#### Quest ユーザー向け（PC ユーザーの場合は Quest 対応アバターを使用するよう注意）
+- [Quest 日本集会場](https://vrch.at/wrld_2eadff86-8d29-4697-a427-07010b491e0d)
+- [日本語話者向け集会場「FUJIYAMA」](https://vrch.at/wrld_6ae102b1-76f4-4d1c-951b-a5a96ebffb96)
+- [CONNECT STATION](https://vrch.at/wrld_a0614285-d56c-40eb-998b-164b82cbb452) （PC 限定）
 
-- [Quest 日本集会場](https://www.vrchat.com/home/launch?worldId=wrld_2eadff86-8d29-4697-a427-07010b491e0d)
-- [New じゃぱんひろば](https://www.vrchat.com/home/launch?worldId=wrld_dd48dfb4-304e-4b2f-a470-2d7fb79be98f)
+以下のワールドにも日本人が多いのですが、如何せん酒が絡むことが多いので初心者におすすめするのはちょっと……という感じなので慣れてきたら行くといいかもしれません。
 
-#### PC ユーザー限定
+- [ポピー横丁-Poppy Street-](https://vrch.at/wrld_30716c54-3565-42f7-b7c5-d398ef4faac5) （PC 限定）
+- [［JP］ NEW じゃぱん横丁 （UDON） New Japan Yokocho](https://vrch.at/wrld_4cdf3215-e7e6-475d-aebe-ef605d320119)
 
-- [CONNECT STATION](https://www.vrchat.com/home/launch?worldId=wrld_a0614285-d56c-40eb-998b-164b82cbb452)
-- [すずらん集会場](https://www.vrchat.com/home/launch?worldId=wrld_d4d641b1-e969-4cd0-8490-7b1fc8b2ee9a)
+あとはイベントカレンダーを見るのがいいかもしれません。共通の話題があれば話しやすいのは間違いないでしょう。
 
-かの有名な [［JP］ Tutorial world](https://www.vrchat.com/home/launch?worldId=wrld_bf51e60f-f372-48b1-a757-88ba8331d926) はほとんど日本人がいなくなってしまいました。この記事を読むような人にはあまりオススメできないかもしれません。
-
-#### 2021/06/14 追記 【JP hub について】
-
-[日本語話者向け集会場 JP hub](https://vrchat.com/home/launch?worldId=wrld_96ccdde4-3b4c-4a12-9dca-02d21889b04e) の登場により、大分状況が変わってきました。
-
-このワールドは日本語がわからないと解けないような問題が出題され、解けた人のみが部屋の中に入れるワールドとなっています。 そのため、日本語で話したい人達にとってはとてもありがたい環境となっており、現在は昼夜を問わず多くの日本人がいる状態となっています。
-
-#### 2021/08/24 追記 【［JP］ Tutorial world について】
-
-[［JP］ Tutorial world](https://www.vrchat.com/home/launch?worldId=wrld_bf51e60f-f372-48b1-a757-88ba8331d926) にも JP hub 同様にクイズが追加されました。
-
-元々案内用のワールドというのもあり、改めて初心者へおすすめできるようになりました。
+{{< hatena title="VRChatイベントカレンダー" url="https://vrceve.com/" >}}
 
 ### 話しかけるきっかけをつかめない
 
