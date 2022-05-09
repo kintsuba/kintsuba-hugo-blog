@@ -97,6 +97,10 @@ Kill all.
 2. Slower Projectiles Support 購入
 3. Shattering Steel - Impale Support - Vicious Projectiles Support（ - Slower Projectiles Support）（`G-G-G-G`）
 
+#### The Labyrinth
+
+Champion を選び、Master of Metal を取る。
+
 ### Act 4
 
 #### Malachai 倒した後
@@ -104,3 +108,16 @@ Kill all.
 1. Greater Multiple Projectiles Support 貰う
 2. Brutality Support 購入
 3. Shattering Steel - Impale Support - Vicious Projectiles Support（ - Brutality Support or Slower Projectiles Support）（`G-G-G-G` or `G-G-G-R`）
+
+### Act 6-7
+
+#### The Cruel Labyrinth
+
+1. Respec Point が 10 ポイントあることを確認してからスタートする（クエストを全てこなしていれば問題ない）
+2. Master of Metal を外して、Unstoppable Hero、Fortify を取る
+
+### Act 8-10
+
+#### The Merciless Labyrinth
+
+Conqueror を取る。
