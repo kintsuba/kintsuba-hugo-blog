@@ -85,7 +85,7 @@ Kill all.
 1. [Pride](https://www.poewiki.net/wiki/Pride) 貰う
 2. [Dread Banner](https://www.poewiki.net/wiki/Dread_Banner) 購入
 3. War Banner を外して Dread Banner を発動する
-4. マナに問題がなければ Herald of Purity を外して Pride を発動する。HoP は裏武器に嵌めておく
+4. マナに問題がなければ Herald of Purity を外して Pride を発動する。HoP は裏武器に嵌めてレベリングしておく
 
 #### The Ebony Barracks の 隕石降らせてくるおっさん倒した後
 
@@ -96,7 +96,8 @@ Kill all.
 
 1. [Impale Support](https://www.poewiki.net/wiki/Impale_Support) 貰う
 2. [Slower Projectiles Support](https://www.poewiki.net/wiki/Slower_Projectiles_Support) 購入
-3. Shattering Steel - Impale Support - Vicious Projectiles Support（ - Slower Projectiles Support）（`G-G-G-G`）
+3. [Minion Life Support](https://www.poewiki.net/wiki/Minion_Life_Support) と [Infernal Legion Support](https://www.poewiki.net/wiki/Infernal_Legion_Support) を 2 つずつ購入 → どこかに嵌めてレベリングしておく
+4. Shattering Steel - Impale Support - Vicious Projectiles Support（ - Slower Projectiles Support）（`G-G-G-G`）
 
 #### The Labyrinth
 
@@ -126,6 +127,11 @@ Champion を選び、[Master of Metal](https://www.poewiki.net/wiki/Master_of_Me
 
 ### Act 6-7
 
+#### The Pantheon
+
+- Major: [Soul of Solaris](https://www.poewiki.net/wiki/Soul_of_Solaris)
+- Minor: [Soul of Ralakesh](https://www.poewiki.net/wiki/Soul_of_Ralakesh)
+
 #### The Cruel Labyrinth
 
 1. Respec Point が 10 ポイントあることを確認してからスタートする（クエストを全てこなしていれば問題ない）
@@ -135,4 +141,4 @@ Champion を選び、[Master of Metal](https://www.poewiki.net/wiki/Master_of_Me
 
 #### The Merciless Labyrinth
 
-Conqueror を取る。
+[Conqueror](https://www.poewiki.net/wiki/Conqueror) を取る。
