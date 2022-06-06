@@ -4,9 +4,12 @@ date: 2022-06-03T14:43:02+09:00
 thumbnail: "images/2022/witch920x518.jpg" # Optional, referenced at `$HUGO_ROOT/static/images/thumbnail.jpg`
 toc: true # Optional
 draft: false
+categories:
+  - Gaming
+tags:
+  - Path of Exile
+  - PoE初心者向け
 ---
-
-**まだ未完成！随時更新中です！**
 
 ## はじめに
 
@@ -425,7 +428,7 @@ Tarkleigh から [Summon Raging Spirit](https://www.poewiki.net/wiki/Summon_Ragi
 
 #### 拠点でやること
 
-Tarkleigh から [Added Lightning Damage Support](https://www.poewiki.net/wiki/Added_Lightning_Damage_Support) を受け取り、さらに Nessa からもう 1 つ同じものを買おう。
+Nessa から [Added Lightning Damage Support](https://www.poewiki.net/wiki/Added_Lightning_Damage_Support) を受け取り、さらに Nessa からもう 1 つ同じものを買おう。
 
 片方は SRS に、もう片方は Raise Zombie にリンクさせる。
 
@@ -434,7 +437,7 @@ Tarkleigh から [Added Lightning Damage Support](https://www.poewiki.net/wiki/A
 つまり、現時点で以下のリンクとなっていればよい。
 
 - Raise Zombie - Summon Phantasm Support - Added Lightning Damage Support
-- Summon Raging Spirit - Melee Splash Support - Added Lightning Damage
+- Summon Raging Spirit - Melee Splash Support - Added Lightning Damage Support
 
 言い忘れていたが、リンクの順番は原則関係がないので繋がってさえいればよい（一部例外があるが、ごくごく稀である）。  
 またガイドに従っているうちは関係ないが、1 つの Gem に対して同じ Support Skill Gem を重複してリンクさせることはできない。念のため覚えておこう。
@@ -466,9 +469,9 @@ The Lower Prison を探索していると、謎のマークとともにトゲだ
 
 #### ここでやること
 
-最後のエリアまで辿り着くと、中ボス Brutus と戦うことになる。
+最後のエリアまで辿り着くと、中ボス [Brutus](https://www.poewiki.net/wiki/Brutus,_Lord_Incarcerator) と戦うことになる。
 
-非常に攻撃がわかりやすいボスなので攻撃を避けるのは簡単だと思われる。
+非常に攻撃がわかりやすいボスなので、攻撃を避けるのは簡単だと思われる。
 
 攻撃するときは以下のようにするとよい。
 
@@ -482,4 +485,110 @@ The Lower Prison を探索していると、謎のマークとともにトゲだ
 
 ### Prisoner's Gate
 
-作成中
+#### ここでやること
+
+早々に Waypoint があるので一旦拠点に戻ろう。
+
+ここもやることは特にないのだが、途中で通せんぼされるイベントがある。  
+周りをよく探すと抜け道があるので、そこから先に進もう。
+
+#### 拠点でやること
+
+Tarkleigh から [Flame Dash](https://www.poewiki.net/wiki/Flame_Dash) を貰い Frostblink と入れ替えよう。  
+Frostblink と同じようなスキルだが、最大 3 回分チャージを貯めておいて一度に使うことができるという利点があるスキルだ。
+
+次に Nessa から [Vitality](https://www.poewiki.net/wiki/Vitality) と [Clarity](https://www.poewiki.net/wiki/Clarity) を購入しよう。  
+このとき Currency が足りなければ Vitality だけでも買おう。
+
+Vitality はライフのリジェネ、Clarity はマナのリジェネを高めてくれるオーラスキルだ。
+
+オーラ（Aura）はチャンネリング、つまり切り替え式のスキルで、発動している間 Exile の周りの味方に効果を付与する（多少の例外はあるが）。  
+このときマナを一定量リザーブ（予約）、つまり使えなくする必要があるが、このリザーブする量はそのスキルによって変わる。
+
+ほとんどのオーラは 25%や 50%などの割合でリザーブするが、この段階で手に入る [Vitality](https://www.poewiki.net/wiki/Vitality) と [Clarity](https://www.poewiki.net/wiki/Clarity)、そして [Precision](https://www.poewiki.net/wiki/Precision) の 3 つのオーラだけはジェムのレベルに応じて固定値でリザーブする仕様になっている。  
+ビルドガイドに Clarity を Lv1 で止めるよう書かれているのはこの仕様が理由である。
+
+スキルジェムのレベルを上げないようにするのは簡単だ。  
+[The Coast の「Skill Gem のレベルアップ」](#skill-gem-の-レベルアップ)で説明したときの「+」ボタンを右クリックするだけで良い。  
+もしも後から上げたくなった場合は、インベントリの下の方に小さく表示されているのでそこを見よう。
+
+間違えてレベルを上げてしまった場合でも、1 と 2 では大した差がないので気にしなくてよい。  
+気になるのであれば、Nessa からもう 1 つ買ってくるのが早いだろう。
+
+このときに、[Flesh Offering](https://www.poewiki.net/wiki/Flesh_Offering) という死体を消費してバフをかけるスキルを買ってもいいのだが、初心者のうちはスキルは少ない方が混乱しづらいと思うので、今回は採用しないことにする。
+
+### The Ship Graveyard
+
+#### ここでやること
+
+The Ship Graveyard Cave という寄り道エリアに行かないとクエストを消化できないため、そちらへ先に向かう。
+
+最深部で Allflame というアイテムを見つけたら The Ship Graveyard に戻り、Captain Fairgraves を探して渡そう。  
+渡すと恩も忘れて襲い掛かってくるので、返り討ちにしよう。
+
+倒したらそのまま次のエリアに向かう。
+
+### The Cavern of Wrath
+
+#### ここでやること
+
+入って早々 Waypoint があるので拠点に戻ろう。
+
+それ以外は先に進むだけだ。Absolution の使い勝手を確認しておこう。
+
+#### 拠点でやること
+
+[Absolution](https://www.poewiki.net/wiki/Absolution) を買おう。ここからずっと付き合う相棒になるメインスキルだ。  
+ついでに Summon Phantasm Support をもう 1 つ購入しておく。
+
+その後、以下のようにジェムを入れ替える。
+
+- Holy Flame Totem を外す。
+- SRS と Melee Splash Support を外し、代わりに Absolution と Summon Phantasm Support を嵌める。
+
+まとめると以下の状態になっているはずだ。
+
+- Raise Zombie - Summon Phantasm Support - Added Lightning Damage Support
+- Absolution - Summon Phantasm Support - Added Lightning Damage Support
+- Vitality
+- Clarity(Lv1)
+- Flame Dash
+
+スキルのリンクを確認したら先に進もう。
+
+### The Cavern of Anger
+
+#### ここでやること
+
+先に進むだけだ。  
+Act1 最後のエリアだが難しいところはない。
+
+最奥部に Act1 ボス [Merveil](https://www.poewiki.net/wiki/Merveil,_the_Siren) が控えている。
+
+#### Merveil, the Siren
+
+全体的に派手になってはくるが、基本的には何も変わらない。  
+敵の攻撃を落ち着いて避けながら攻撃していこう。
+
+相手の攻撃が全て Cold 属性なため、Cold Resistance、いわゆる抵抗を増やしておくとダメージを大きく軽減できる。  
+Act1 時点では Sapphire Ring を見つけたら拾っておくくらいが関の山だが、後々重要になってくる概念なので今のうちに意識しておこう。
+
+そして Merveil を倒せば Act2 への道が開く。
+
+## おわりに
+
+Act1 攻略、いかがだっただろうか。  
+思いのほか簡単で、もっと先に進みたくなった人が大半だろう。
+
+しかし安心してほしい。  
+このゲームは Act10 まである上、むしろその先がメインコンテンツなのだから。
+
+Act1 の攻略を通してビルドガイドの読み方もなんとなくわかってきただろう。  
+Act2 以降の攻略についてはもはや説明はいらないかもしれないが、要望があった部分については個別に解説していこうと思う。
+
+PoE は覚えることが非常に多く、全ての要素を完全に理解している人間は開発者も含めて 1 人もいないと言われているほど難しいゲームである。  
+しかし、それ故に面白く、それ故に熱中するのだ。
+
+新しい Exile の船出に祝杯を上げよう。
+
+**Welcome to Wraeclast, Exile !**

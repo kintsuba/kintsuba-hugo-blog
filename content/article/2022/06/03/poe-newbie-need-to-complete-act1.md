@@ -3,6 +3,11 @@ title: "Path of Exile 初心者が Act1 を突破するために必要なこと�
 date: 2022-06-03T10:22:02+09:00
 thumbnail: "images/2022/witch.jpg" # Optional, referenced at `$HUGO_ROOT/static/images/thumbnail.jpg`
 toc: true # Optional
+categories:
+  - Gaming
+tags:
+  - Path of Exile
+  - PoE初心者向け
 ---
 
 ## はじめに
@@ -101,4 +106,4 @@ poebuilds で Absolution の項目を見ると 3 つのガイドがあったが�
 
 {{< hatena title="[3.18] Odif's Build Guides for Newbies: Absolution-Slave Drivers Necromancer" url="https://www.pathofexile.com/forum/view-thread/3223145" >}}
 
-後編ではこのガイドに従って、実際にゲームを進めていきたいと思う。
+[後編]({{<ref "../04/poe-newbie-need-to-complete-act1/index.md" >}})ではこのガイドに従って、実際にゲームを進めていきたいと思う。
