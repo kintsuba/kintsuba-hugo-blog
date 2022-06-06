@@ -462,7 +462,7 @@ The Lower Prison を探索していると、謎のマークとともにトゲだ
 
 次のエリアに行こう。
 
-#### The Upper Prison
+### The Upper Prison
 
 #### ここでやること
 
