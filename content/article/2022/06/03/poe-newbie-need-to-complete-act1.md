@@ -107,3 +107,11 @@ poebuilds で Absolution の項目を見ると 3 つのガイドがあったが�
 {{< hatena title="[3.18] Odif's Build Guides for Newbies: Absolution-Slave Drivers Necromancer" url="https://www.pathofexile.com/forum/view-thread/3223145" >}}
 
 [後編]({{<ref "../04/poe-newbie-need-to-complete-act1/index.md" >}})ではこのガイドに従って、実際にゲームを進めていきたいと思う。
+
+#### 2022/09/06 追記
+
+上記のビルドが Unsupported になってしまったため、代替として同作者が公開しているこちらのビルドをおすすめしたい。
+
+{{< hatena title="[3.19] Odif's Build Guides for Newbies: Stone Golem Elementalist" url="https://www.pathofexile.com/forum/view-thread/3293379" >}}
+
+Act1 の進め方は Absolution のビルドと途中までは完全に同じなため、ビルドは違えど[後編]({{<ref "../04/poe-newbie-need-to-complete-act1/index.md" >}})も十分参考になるだろう。
