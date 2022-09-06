@@ -114,4 +114,4 @@ poebuilds で Absolution の項目を見ると 3 つのガイドがあったが�
 
 {{< hatena title="[3.19] Odif's Build Guides for Newbies: Stone Golem Elementalist" url="https://www.pathofexile.com/forum/view-thread/3293379" >}}
 
-Act1 の進め方は Absolution のビルドと途中までは完全に同じなため、ビルドは違えど[後編]({{<ref "../04/poe-newbie-need-to-complete-act1/index.md" >}})も十分参考になるだろう。
+こちらのビルドを選んだ場合のガイドを新しく書いたため、今から始めるという人は[こちら]({{<ref "../../09/06/poe-newbie-need-to-complete-act1/index.md" >}})を読むと良いだろう。
