@@ -2,7 +2,6 @@
 {{ $original := .Page.Resources.GetMatch $src }}
 {{ if $original }}
   {{ $resized := $original.Resize "298x q90" }}
-  <a href="{{ $original.RelPermalink }}">
-    <img src="{{ $resized.RelPermalink }}" alt="{{ .Get "alt" }}" loading="lazy">
-  </a>
+  <amp-img src="{{ $resized.RelPermalink }}" alt="{{ .Get "alt" }}" width="298" height="416" layout="fixed"></amp-img>
 {{ end }}
+  

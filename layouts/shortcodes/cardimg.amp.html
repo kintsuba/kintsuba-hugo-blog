@@ -1,4 +1,6 @@
-{{ $src := .Get "src" }} {{ $original := .Page.Resources.GetMatch $src }} {{ if
-$original }} {{ $resized := $original.Resize "298x q90" }}
-<amp-img src="{{ $resized.RelPermalink }}" alt="{{ .Get "alt" }}" width="298" height="416" layout="fixed"></amp-img>
+{{ $src := .Get "src" }}
+{{ $original := .Page.Resources.GetMatch $src }}
+{{ if $original }}
+  {{ $resized := $original.Resize "298x q90" }}
+  <amp-img src="{{ $resized.RelPermalink }}" alt="{{ .Get "alt" }}" width="298" height="416" layout="fixed"></amp-img>
 {{ end }}

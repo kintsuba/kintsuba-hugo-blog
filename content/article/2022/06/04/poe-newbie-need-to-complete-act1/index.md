@@ -41,7 +41,7 @@ tags:
 今回は参考にしているビルドガイドがあるため、確認してみよう。  
 上部のパンくずリストを見ると、Witch のフォーラムに書かれたもののようだ。
 
-![パンくずリスト](pankuzu.png)
+{{< lightimg src="pankuzu.png" >}}
 
 つまり、ここでは Witch を選べばいいとわかる。
 
@@ -84,14 +84,14 @@ tags:
 
 すると右下の方にあるスキル欄の右上、つまり右クリック部分に Fireball が表示されているだろう。
 
-![スキル欄](skills.png)
+{{< lightimg src="skills.png" >}}
 
 この状態で、適当なところを右クリックしてみると火の玉が発射されるはずだ。
 
 もちろん、他のキーにセットしてもよい。スキル欄をクリックすることで自由に変更できる。  
 ついでに左クリックの部分を足跡のようなマークの「Move Only」に設定しておくとよい。
 
-![Move Only](move-only.png)
+{{< lightimg src="move-only.png" >}}
 
 他の Character でも通常攻撃は弱いのであまり使わないのだが、特に Witch は拾う武器が Wand なので飛びぬけて弱いからだ。
 
@@ -108,7 +108,7 @@ UI の左下を見てほしい。数字の 1 ～ 5 とともに怪しげな試�
 これが他のゲームでいうポーションとなる、フラスコである。  
 赤いフラスコは体力を回復し、青いフラスコはマナを回復する。
 
-![フラスコ](flasks.png)
+{{< lightimg src="flasks.png" >}}
 
 しばらくの間は、これらのフラスコを頻繁に使う状態になるので、戦闘中は基本的に数字キーの上に左手を置いておくとよいだろう。  
 また、フラスコは種類にかかわらず敵を倒すことでまた使えるようになるため、出し惜しみする必要はない。  
@@ -154,7 +154,7 @@ Skill Point の少ない順に記載されていることがわかるので、�
 実際に振り分けてみよう。  
 まずは取得したいスキルを左クリック。
 
-![Allocate Passive](allocate-passive.png)
+{{< lightimg src="allocate-passive.png" >}}
 
 その後、上部に表示される「APPLY POINTS」をクリックすれば完了だ。
 
@@ -185,12 +185,12 @@ Hillock を倒した報酬を得ることができる。
 もしかしたら道中、青や黄色の背景をした装備がドロップしているかもしれない。  
 青はマジック、黄色はレアと呼ばれる等級の装備で、ドロップした段階では未鑑定のため装備できない。
 
-![Magic Item](magic-item.png)
+{{< lightimg src="magic-item.png" >}}
 
 最初から 3 つ持っている Scroll of Wisdom という巻物のアイテムを使うことで鑑定できる。  
 Scroll を右クリックしたあと、鑑定したい装備に左クリックで OK だ
 
-![Identifies an item](identifies-item.png)
+{{< lightimg src="identifies-item.png" >}}
 
 鑑定したアイテムは白、つまりノーマルの装備と同じように扱える。
 
@@ -213,7 +213,7 @@ Lioneye's Watch なら先程の Tarkleigh、もしくは Nissa となる。
 このとき左クリックで掴んで 1 つずつやってもいいが、基本的には売りたいアイテムを Ctrl+左クリックする。 こちらの方が圧倒的に早い。  
 アイテムを買うときやスタッシュに物を入れるときも使えるテクニックなので、ぜひ覚えておいてほしい。
 
-![Sell Items](sell-items.png)
+{{< lightimg src="sell-items.png" >}}
 
 売るアイテムを確認したら「ACCEPT」を押して取引完了だ。
 
@@ -242,20 +242,20 @@ Tarkleigh や Nessa が販売しているものを確認して、該当するリ
 
 今回は B-B-B の Shield を購入できた。
 
-![BBB Shield](BBB-Shield.png)
+{{< lightimg src="BBB-Shield.png" >}}
 
 #### Stash
 
 拠点の左の方に STASH と書いてある箱がおいてあるだろう。これがいわゆる倉庫だ。
 初心者のうちはひとまず Currency 入れになるだろう。
 
-![stash](stash.png)
+{{< lightimg src="stash.png" >}}
 
 こんな感じで入れておくと良い。
 
 また、アイテムをたくさん拾うために、インベントリは Wisdom と Portal Scroll だけの状態にしておこう。
 
-![Inventory](inventory.png)
+{{< lightimg src="inventory.png" >}}
 
 ここまで準備ができたら、The Coast に向かおう。
 
@@ -282,7 +282,7 @@ Freesing Pulse で敵をなぎ倒し、Raise Zombie を敵の死体に使って�
 
 Skill Gem にもレベルや経験値があり、経験値が溜まると以下のようにレベルアップさせる UI が出てくる。
 
-![Level Up Skill Gems](level-up-skill-gems.png)
+{{< lightimg src="level-up-skill-gems.png" >}}
 
 ごく一部の例外を除き、基本的にはどんどん上げてしまってよい。
 
@@ -295,11 +295,11 @@ Skill Gem にもレベルや経験値があり、経験値が溜まると以下�
 
 Sentinel リーグではこのような謎の箱が置いてある。
 
-![Sentinel Cache](sentinel-cache.png)
+{{< lightimg src="sentinel-cache.png" >}}
 
 開けると謎の 2 つのアイテムが出てくるので、このうち左のアイテムを右クリックで装備しよう。
 
-![Sentinel Items](sentinel-items.png)
+{{< lightimg src="sentinel-items.png" >}}
 
 するとインベントリに謎の空白が出てくるので、ここに右のアイテムを入れよう。  
 なお、左側に出てくるのは Sentinel 専用のパッシブツリーだ。適当に振っておいてもよい。
@@ -307,7 +307,7 @@ Sentinel リーグではこのような謎の箱が置いてある。
 さて、実際に起動してみよう。
 スキル欄の左側にあるボタンをクリックするか、そこに書いてあるキーを押そう（私はキー設定を変更している）。
 
-![Activate Sentinel](activate-sentinel.png)
+{{< lightimg src="activate-sentinel.png" >}}
 
 起動すると周りの敵が強化される代わりに、レアなアイテムを落とすようになる。
 かなり強くなるので、勝てる自信があるときだけにやろう。
@@ -316,7 +316,7 @@ Sentinel リーグではこのような謎の箱が置いてある。
 
 エリアの最後の方でこのようなオブジェクトがあるはずだ。クリックして起動しよう。
 
-![Waypoint](waypoint.png)
+{{< lightimg src="waypoint.png" >}}
 
 いわゆるワープポイントで、これを使うことで拠点に戻ったり、またここに戻ってくることができる。  
 起動するデメリットはまったくないので、見つけたらどんどん起動しよう。
