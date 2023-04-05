@@ -125,3 +125,11 @@ poebuilds で Absolution の項目を見ると 3 つのガイドがあったが�
 {{< hatena title="[3.19] Odif's Build Guides for Newbies: Stone Golem Elementalist" url="https://www.pathofexile.com/forum/view-thread/3293379" >}}
 
 こちらのビルドを選んだ場合のガイドを新しく書いたため、今から始めるという人は[こちら]({{<ref "../../09/06/poe-newbie-need-to-complete-act1/index.md" >}})を読むと良いだろう。
+
+#### 2023/04/05 追記
+
+上のビルドもサポートされなくなってしまったので、同様に今から始めるという人にはこちらのビルドをおすすめしたい。
+
+{{< hatena title="[3.21] Odif's Build Guides for Newbies: Skeleton Mage Necro" url="https://www.pathofexile.com/forum/view-thread/3351307" >}}
+
+こちらのビルドを選んだ場合は、[ここ]({{<ref "../../../2023/04/05/poe-newbie-need-to-complete-act1/index.md" >}})を読んでほしい。
