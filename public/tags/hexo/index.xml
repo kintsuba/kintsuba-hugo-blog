@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hexo on Kintsuba&#39;s Blog</title>
+    <link>https://kintsuba.blog/tags/hexo/</link>
+    <description>Recent content in Hexo on Kintsuba&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 28 Jul 2019 22:29:43 +0000</lastBuildDate>
+    <atom:link href="https://kintsuba.blog/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter プラグインを使用しないことにしました</title>
+      <link>https://kintsuba.blog/blog/2019/07/26/disable-twitter-plugin/</link>
+      <pubDate>Sun, 28 Jul 2019 22:29:43 +0000</pubDate>
+      <guid>https://kintsuba.blog/blog/2019/07/26/disable-twitter-plugin/</guid>
+      <description>&lt;p&gt;hexo-tag-twitter で埋め込んでいる Twitter の投稿がページが重い要因になっていたので、該当部分を各ページから削除しました。&lt;br&gt;&#xA;微妙に不便です。代替手段があるといいのですけど。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>何個目のブログだろう……</title>
+      <link>https://kintsuba.blog/blog/2019/01/16/new-blog/</link>
+      <pubDate>Wed, 16 Jan 2019 14:28:01 +0000</pubDate>
+      <guid>https://kintsuba.blog/blog/2019/01/16/new-blog/</guid>
+      <description>&lt;p&gt;毎回今度こそ……とは思うんですけど、絶対長続きしないんですよね、ブログって。いつの間にか Twitter ばかりになっちゃいます。でもまぁ、それでも諦められないのが人間ってものです。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
