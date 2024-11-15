@@ -16,6 +16,10 @@ NEKOGURUMA はＳＥモバイル・アンド・オンライン株式会社が提
 
 これらの機能については通常のブラウザでも可能なことを簡単に行えるようにしているだけであり、通信内容の変更やサーバーに対する情報の送信等は一切行っていません。
 
+## ダウンロード
+
+[ここをクリック](https://github.com/kintsuba/NEKOGURUMA/releases/latest/download/NEKOGURUMA.zip)することで最新版のファイルをダウンロードできます。
+
 ## 機能一覧
 
 - ウィンドウサイズの変更に伴うゲーム画面の拡大・縮小
@@ -28,10 +32,6 @@ NEKOGURUMA はＳＥモバイル・アンド・オンライン株式会社が提
 
 {{< figure src="img/darkmode.png" caption="ダークモードUI" class="center" width="100%" >}}
 {{< figure src="img/lightmode.png" caption="ライトモードUI" class="center" width="100%" >}}
-
-## ダウンロード
-
-[ここをクリック](https://github.com/kintsuba/NEKOGURUMA/releases/latest/download/NEKOGURUMA.zip)することで最新版のファイルをダウンロードできます。
 
 ## 現在確認されているバグ
 
