@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Kintsuba&#39;s Blog</title>
-    <link>http://localhost:1313/categories/technology/</link>
+    <link>https://kintsuba.blog/categories/technology/</link>
     <description>Recent content in Technology on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 17 Mar 2024 01:12:41 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kintsuba.blog/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NEKOGURUMA</title>
-      <link>http://localhost:1313/nekoguruma/</link>
+      <link>https://kintsuba.blog/nekoguruma/</link>
       <pubDate>Sun, 17 Mar 2024 01:12:41 +0900</pubDate>
-      <guid>http://localhost:1313/nekoguruma/</guid>
+      <guid>https://kintsuba.blog/nekoguruma/</guid>
       <description>&lt;h2 id=&#34;nekoguruma-とは&#34;&gt;NEKOGURUMA とは&lt;/h2&gt;&#xA;&lt;p&gt;NEKOGURUMA はＳＥモバイル・アンド・オンライン株式会社が提供するゲーム&lt;a href=&#34;https://games.dmm.com/detail/olesma&#34;&gt;『毎日こつこつ俺タワー』&lt;/a&gt;をちょっと快適に遊ぶためのアプリケーションです！&lt;/p&gt;&#xA;&lt;p&gt;ゲーム画面サイズの変更やスクリーンショット機能など、「こういう機能があればいいのになぁ」という機能を一通り実装しています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>bukibin-search.com ができるまで</title>
-      <link>http://localhost:1313/blog/2019/09/05/bukibin-search-com/</link>
+      <link>https://kintsuba.blog/blog/2019/09/05/bukibin-search-com/</link>
       <pubDate>Thu, 05 Sep 2019 07:27:34 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/09/05/bukibin-search-com/</guid>
-      <description>&lt;p&gt;今日はなんと私の誕生日です、きんつばです。&lt;br&gt;&#xA;&lt;a href=&#34;https://misskey.m544.net/&#34;&gt;めいすきー&lt;/a&gt;で今日誕生日なので祝ってって投稿したら、ちゃんとみんなお祝いの言葉をくれたのが嬉しかったです。&lt;/p&gt;&#xA;&lt;p&gt;さて誕生日とは何も関係なく、今回は&lt;abbr title=&#34;不器用ビンボーダンス&#34;&gt;武器瓶&lt;/abbr&gt;のファンサイトというかツールのようなものを作ったというお話です。&lt;br&gt;&#xA;不器用ビンボーダンスについてご存じない方は、&lt;a href=&#34;http://localhost:1313/2019/08/03/about-bukiyo-binbo-dance/&#34;&gt;前回の記事&lt;/a&gt;で語っていますのでそちらを参照ください。&lt;/p&gt;&#xA;&lt;h2 id=&#34;できたもの&#34;&gt;できたもの&lt;/h2&gt;&#xA;&lt;p&gt;ひとまず完成したものがこちらになります。&lt;/p&gt;</description>
+      <guid>https://kintsuba.blog/blog/2019/09/05/bukibin-search-com/</guid>
+      <description>&lt;p&gt;今日はなんと私の誕生日です、きんつばです。&lt;br&gt;&#xA;&lt;a href=&#34;https://misskey.m544.net/&#34;&gt;めいすきー&lt;/a&gt;で今日誕生日なので祝ってって投稿したら、ちゃんとみんなお祝いの言葉をくれたのが嬉しかったです。&lt;/p&gt;&#xA;&lt;p&gt;さて誕生日とは何も関係なく、今回は&lt;abbr title=&#34;不器用ビンボーダンス&#34;&gt;武器瓶&lt;/abbr&gt;のファンサイトというかツールのようなものを作ったというお話です。&lt;br&gt;&#xA;不器用ビンボーダンスについてご存じない方は、&lt;a href=&#34;https://kintsuba.blog/2019/08/03/about-bukiyo-binbo-dance/&#34;&gt;前回の記事&lt;/a&gt;で語っていますのでそちらを参照ください。&lt;/p&gt;&#xA;&lt;h2 id=&#34;できたもの&#34;&gt;できたもの&lt;/h2&gt;&#xA;&lt;p&gt;ひとまず完成したものがこちらになります。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Twitter プラグインを使用しないことにしました</title>
-      <link>http://localhost:1313/blog/2019/07/26/disable-twitter-plugin/</link>
+      <link>https://kintsuba.blog/blog/2019/07/26/disable-twitter-plugin/</link>
       <pubDate>Sun, 28 Jul 2019 22:29:43 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/07/26/disable-twitter-plugin/</guid>
+      <guid>https://kintsuba.blog/blog/2019/07/26/disable-twitter-plugin/</guid>
       <description>&lt;p&gt;hexo-tag-twitter で埋め込んでいる Twitter の投稿がページが重い要因になっていたので、該当部分を各ページから削除しました。&lt;br&gt;&#xA;微妙に不便です。代替手段があるといいのですけど。&lt;/p&gt;</description>
     </item>
     <item>
       <title>何個目のブログだろう……</title>
-      <link>http://localhost:1313/blog/2019/01/16/new-blog/</link>
+      <link>https://kintsuba.blog/blog/2019/01/16/new-blog/</link>
       <pubDate>Wed, 16 Jan 2019 14:28:01 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/01/16/new-blog/</guid>
+      <guid>https://kintsuba.blog/blog/2019/01/16/new-blog/</guid>
       <description>&lt;p&gt;毎回今度こそ……とは思うんですけど、絶対長続きしないんですよね、ブログって。いつの間にか Twitter ばかりになっちゃいます。でもまぁ、それでも諦められないのが人間ってものです。&lt;/p&gt;</description>
     </item>
   </channel>

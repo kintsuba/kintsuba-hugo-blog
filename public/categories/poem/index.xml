@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poem on Kintsuba&#39;s Blog</title>
-    <link>http://localhost:1313/categories/poem/</link>
+    <link>https://kintsuba.blog/categories/poem/</link>
     <description>Recent content in Poem on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 02 Jun 2022 16:31:13 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/poem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kintsuba.blog/categories/poem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>（詩）私の詩</title>
-      <link>http://localhost:1313/poem/2022/06/02/watashi-no-uta/</link>
+      <link>https://kintsuba.blog/poem/2022/06/02/watashi-no-uta/</link>
       <pubDate>Thu, 02 Jun 2022 16:31:13 +0900</pubDate>
-      <guid>http://localhost:1313/poem/2022/06/02/watashi-no-uta/</guid>
+      <guid>https://kintsuba.blog/poem/2022/06/02/watashi-no-uta/</guid>
       <description>&lt;p&gt;君の前では強がって&lt;br&gt;&#xA;1 人になったら弱音吐き&lt;br&gt;&#xA;自信を持てない君のため&lt;br&gt;&#xA;自信を持ってるフリをする&lt;/p&gt;&#xA;&lt;p&gt;君のため なんて意味のない&lt;br&gt;&#xA;自分のため 多分そう&lt;br&gt;&#xA;偽善に塗れた感情に&lt;br&gt;&#xA;溜息ひとつ 苦笑い&lt;/p&gt;</description>
     </item>
     <item>
       <title>（詩）空想の世界</title>
-      <link>http://localhost:1313/poem/2021/01/17/virtual-world/</link>
+      <link>https://kintsuba.blog/poem/2021/01/17/virtual-world/</link>
       <pubDate>Sun, 17 Jan 2021 22:06:46 +0900</pubDate>
-      <guid>http://localhost:1313/poem/2021/01/17/virtual-world/</guid>
+      <guid>https://kintsuba.blog/poem/2021/01/17/virtual-world/</guid>
       <description>&lt;p&gt;最低で最悪な毎日を&lt;br&gt;&#xA;最速で最高に変える方法&lt;br&gt;&#xA;現実を一瞬で飛び出して&lt;br&gt;&#xA;空想の世界へ飛び込もう&lt;/p&gt;&#xA;&lt;p&gt;人間関係のいざこざも&lt;br&gt;&#xA;身体的なあれこれも&lt;br&gt;&#xA;ここでは何も関係ない&lt;br&gt;&#xA;みんな同じスタートライン&lt;/p&gt;</description>
     </item>
   </channel>

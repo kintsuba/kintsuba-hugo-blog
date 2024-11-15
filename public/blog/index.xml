@@ -2,150 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Kintsuba&#39;s Blog</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://kintsuba.blog/blog/</link>
     <description>Recent content in Blogs on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 03 Sep 2021 11:35:16 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kintsuba.blog/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EDH 用の 《眼/Eye》デッキを作るよ！ Part5</title>
-      <link>http://localhost:1313/blog/2021/09/30/edh-eye-part5/</link>
+      <link>https://kintsuba.blog/blog/2021/09/30/edh-eye-part5/</link>
       <pubDate>Fri, 03 Sep 2021 11:35:16 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2021/09/30/edh-eye-part5/</guid>
-      <description>&lt;h2 id=&#34;デッキ作成&#34;&gt;デッキ作成&lt;/h2&gt;&#xA;&lt;p&gt;「さて今回は、「&lt;a href=&#34;http://localhost:1313/blog/2021/08/30/edh-eye-part4/&#34;&gt;前回&lt;/a&gt;までの評価を元に実際にデッキを組んでいくで」&lt;/p&gt;&#xA;&lt;p&gt;「と、その前に統率者の紹介がまだやったな」&lt;/p&gt;&#xA;&lt;h2 id=&#34;統率者-片目のガースgarth-one-eye&#34;&gt;統率者 《片目のガース/Garth One-Eye》&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;  &#xA;  &lt;a href=&#34;http://localhost:1313/blog/2021/09/30/edh-eye-part5/img/garth-one-eye.png&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/blog/2021/09/30/edh-eye-part5/img/garth-one-eye_hu9846634301424989557.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;  &lt;/a&gt;&#xA;&#xA;&#xA;&lt;p&gt;「マジック初版の有名なカードを生成できるおっさんやな。普通は明滅させたりアンタップさせたりして何回も使うんやろうけど、このデッキではほぼ色指標としてのみの採用や。とはいえ出さえすれば他のカードよりは強いやろ。出ればな」&lt;/p&gt;</description>
+      <guid>https://kintsuba.blog/blog/2021/09/30/edh-eye-part5/</guid>
+      <description>&lt;h2 id=&#34;デッキ作成&#34;&gt;デッキ作成&lt;/h2&gt;&#xA;&lt;p&gt;「さて今回は、「&lt;a href=&#34;https://kintsuba.blog/blog/2021/08/30/edh-eye-part4/&#34;&gt;前回&lt;/a&gt;までの評価を元に実際にデッキを組んでいくで」&lt;/p&gt;&#xA;&lt;p&gt;「と、その前に統率者の紹介がまだやったな」&lt;/p&gt;&#xA;&lt;h2 id=&#34;統率者-片目のガースgarth-one-eye&#34;&gt;統率者 《片目のガース/Garth One-Eye》&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;  &#xA;  &lt;amp-img src=&#34;https://kintsuba.blog/blog/2021/09/30/edh-eye-part5/img/garth-one-eye_hu9846634301424989557.png&#34; alt=&#34;&#34; width=&#34;298&#34; height=&#34;416&#34; layout=&#34;fixed&#34;&gt;&lt;/amp-img&gt;&#xA;&#xA;&#xA;&lt;p&gt;「マジック初版の有名なカードを生成できるおっさんやな。普通は明滅させたりアンタップさせたりして何回も使うんやろうけど、このデッキではほぼ色指標としてのみの採用や。とはいえ出さえすれば他のカードよりは強いやろ。出ればな」&lt;/p&gt;</description>
     </item>
     <item>
       <title>EDH 用の 《眼/Eye》デッキを作るよ！ Part4</title>
-      <link>http://localhost:1313/blog/2021/08/30/edh-eye-part4/</link>
+      <link>https://kintsuba.blog/blog/2021/08/30/edh-eye-part4/</link>
       <pubDate>Mon, 30 Aug 2021 10:10:10 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2021/08/30/edh-eye-part4/</guid>
-      <description>&lt;p&gt;「&lt;a href=&#34;http://localhost:1313/blog/2021/08/25/edh-eye-part3/&#34;&gt;前回&lt;/a&gt;に続いて、1 (絶対に不採用) ～ 10 (絶対に採用) の 10 段階で、どのカードを採用するかを考えていくで！」&lt;/p&gt;&#xA;&lt;h2 id=&#34;アーティファクト選定&#34;&gt;アーティファクト選定&lt;/h2&gt;&#xA;&lt;h3 id=&#34;魔女の目witches-eye&#34;&gt;《魔女の目/Witches&amp;rsquo; Eye》&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;  &#xA;  &lt;a href=&#34;http://localhost:1313/blog/2021/08/30/edh-eye-part4/img/witches-eye.png&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/blog/2021/08/30/edh-eye-part4/img/witches-eye_hu13803956069368911207.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;  &lt;/a&gt;&#xA;&#xA;&#xA;&lt;p&gt;「このクソデッキで占術はありがたいな。EDH でそんな悠長なことができるかは怪しいけどな」&lt;/p&gt;</description>
+      <guid>https://kintsuba.blog/blog/2021/08/30/edh-eye-part4/</guid>
+      <description>&lt;p&gt;「&lt;a href=&#34;https://kintsuba.blog/blog/2021/08/25/edh-eye-part3/&#34;&gt;前回&lt;/a&gt;に続いて、1 (絶対に不採用) ～ 10 (絶対に採用) の 10 段階で、どのカードを採用するかを考えていくで！」&lt;/p&gt;&#xA;&lt;h2 id=&#34;アーティファクト選定&#34;&gt;アーティファクト選定&lt;/h2&gt;&#xA;&lt;h3 id=&#34;魔女の目witches-eye&#34;&gt;《魔女の目/Witches&amp;rsquo; Eye》&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;  &#xA;  &lt;amp-img src=&#34;https://kintsuba.blog/blog/2021/08/30/edh-eye-part4/img/witches-eye_hu13803956069368911207.png&#34; alt=&#34;&#34; width=&#34;298&#34; height=&#34;416&#34; layout=&#34;fixed&#34;&gt;&lt;/amp-img&gt;&#xA;&#xA;&#xA;&lt;p&gt;「このクソデッキで占術はありがたいな。EDH でそんな悠長なことができるかは怪しいけどな」&lt;/p&gt;</description>
     </item>
     <item>
       <title>EDH 用の 《眼/Eye》デッキを作るよ！ Part3</title>
-      <link>http://localhost:1313/blog/2021/08/25/edh-eye-part3/</link>
+      <link>https://kintsuba.blog/blog/2021/08/25/edh-eye-part3/</link>
       <pubDate>Wed, 25 Aug 2021 15:10:36 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2021/08/25/edh-eye-part3/</guid>
-      <description>&lt;h2 id=&#34;クリーチャー選定-5-マナ以上&#34;&gt;クリーチャー選定 (5 マナ以上)&lt;/h2&gt;&#xA;&lt;p&gt;「&lt;a href=&#34;http://localhost:1313/blog/2021/08/21/edh-eye-part2/&#34;&gt;前回&lt;/a&gt;に続いて、1 (絶対に不採用) ～ 10 (絶対に採用) の 10 段階で、どのカードを採用するかを考えていくで！」&lt;/p&gt;&#xA;&lt;h3 id=&#34;燃える眼のずべらburning-eye-zubera&#34;&gt;《燃える眼のずべら/Burning-Eye Zubera》&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;  &#xA;  &lt;a href=&#34;http://localhost:1313/blog/2021/08/25/edh-eye-part3/img/burning-eye-zubera.png&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/blog/2021/08/25/edh-eye-part3/img/burning-eye-zubera_hu3345321903675207891.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;  &lt;/a&gt;&#xA;&#xA;&#xA;&lt;p&gt;「神河救済の方のずべらやから単体で使えなくもないけど、色拘束がきついのがネックやで」&lt;/p&gt;</description>
+      <guid>https://kintsuba.blog/blog/2021/08/25/edh-eye-part3/</guid>
+      <description>&lt;h2 id=&#34;クリーチャー選定-5-マナ以上&#34;&gt;クリーチャー選定 (5 マナ以上)&lt;/h2&gt;&#xA;&lt;p&gt;「&lt;a href=&#34;https://kintsuba.blog/blog/2021/08/21/edh-eye-part2/&#34;&gt;前回&lt;/a&gt;に続いて、1 (絶対に不採用) ～ 10 (絶対に採用) の 10 段階で、どのカードを採用するかを考えていくで！」&lt;/p&gt;&#xA;&lt;h3 id=&#34;燃える眼のずべらburning-eye-zubera&#34;&gt;《燃える眼のずべら/Burning-Eye Zubera》&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;  &#xA;  &lt;amp-img src=&#34;https://kintsuba.blog/blog/2021/08/25/edh-eye-part3/img/burning-eye-zubera_hu3345321903675207891.png&#34; alt=&#34;&#34; width=&#34;298&#34; height=&#34;416&#34; layout=&#34;fixed&#34;&gt;&lt;/amp-img&gt;&#xA;&#xA;&#xA;&lt;p&gt;「神河救済の方のずべらやから単体で使えなくもないけど、色拘束がきついのがネックやで」&lt;/p&gt;</description>
     </item>
     <item>
       <title>EDH 用の 《眼/Eye》デッキを作るよ！ Part2</title>
-      <link>http://localhost:1313/blog/2021/08/21/edh-eye-part2/</link>
+      <link>https://kintsuba.blog/blog/2021/08/21/edh-eye-part2/</link>
       <pubDate>Mon, 23 Aug 2021 12:48:00 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2021/08/21/edh-eye-part2/</guid>
-      <description>&lt;h2 id=&#34;クリーチャー選定-4-マナ以下&#34;&gt;クリーチャー選定 (4 マナ以下)&lt;/h2&gt;&#xA;&lt;p&gt;「ここからは、&lt;a href=&#34;http://localhost:1313/blog/2021/08/19/edh-eye-part1/&#34;&gt;前回&lt;/a&gt;のリストのカードを 1 枚ずつ 1 (絶対に不採用) ～ 10 (絶対に採用) の 10 段階で、どのカードを採用するかを考えていくで！」&lt;/p&gt;&#xA;&lt;h3 id=&#34;巧射艦隊の追跡者deadeye-tracker&#34;&gt;《巧射艦隊の追跡者/Deadeye Tracker》&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;  &#xA;  &lt;a href=&#34;http://localhost:1313/blog/2021/08/21/edh-eye-part2/img/deadeye-tracker.png&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/blog/2021/08/21/edh-eye-part2/img/deadeye-tracker_hu6665361199002971449.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;  &lt;/a&gt;&#xA;&#xA;&#xA;&lt;p&gt;「墓地対策になるし、マナフラ受けにもなるな。ぜひ採用したい 1 枚やで」&lt;/p&gt;</description>
+      <guid>https://kintsuba.blog/blog/2021/08/21/edh-eye-part2/</guid>
+      <description>&lt;h2 id=&#34;クリーチャー選定-4-マナ以下&#34;&gt;クリーチャー選定 (4 マナ以下)&lt;/h2&gt;&#xA;&lt;p&gt;「ここからは、&lt;a href=&#34;https://kintsuba.blog/blog/2021/08/19/edh-eye-part1/&#34;&gt;前回&lt;/a&gt;のリストのカードを 1 枚ずつ 1 (絶対に不採用) ～ 10 (絶対に採用) の 10 段階で、どのカードを採用するかを考えていくで！」&lt;/p&gt;&#xA;&lt;h3 id=&#34;巧射艦隊の追跡者deadeye-tracker&#34;&gt;《巧射艦隊の追跡者/Deadeye Tracker》&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;  &#xA;  &lt;amp-img src=&#34;https://kintsuba.blog/blog/2021/08/21/edh-eye-part2/img/deadeye-tracker_hu6665361199002971449.png&#34; alt=&#34;&#34; width=&#34;298&#34; height=&#34;416&#34; layout=&#34;fixed&#34;&gt;&lt;/amp-img&gt;&#xA;&#xA;&#xA;&lt;p&gt;「墓地対策になるし、マナフラ受けにもなるな。ぜひ採用したい 1 枚やで」&lt;/p&gt;</description>
     </item>
     <item>
       <title>EDH 用の 《眼/Eye》デッキを作るよ！ Part1</title>
-      <link>http://localhost:1313/blog/2021/08/19/edh-eye-part1/</link>
+      <link>https://kintsuba.blog/blog/2021/08/19/edh-eye-part1/</link>
       <pubDate>Thu, 19 Aug 2021 12:26:00 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2021/08/19/edh-eye-part1/</guid>
-      <description>&lt;h2 id=&#34;眼&#34;&gt;眼&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;  &#xA;  &lt;a href=&#34;http://localhost:1313/blog/2021/08/19/edh-eye-part1/evil-eye-of-urborg.png&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/blog/2021/08/19/edh-eye-part1/evil-eye-of-urborg_hu5859978322384772566.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;  &lt;/a&gt;&#xA;&#xA;&#xA;&lt;p&gt;「アーボーグの邪眼は可愛いなぁ……」&lt;/p&gt;&#xA;&lt;p&gt;「せや、EDH で眼デッキ作ったろ！」&lt;/p&gt;&#xA;&lt;p&gt;「せやけど眼って 3 種類&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;しかおらんしなぁ……」&lt;/p&gt;&#xA;&lt;p&gt;「しゃーない、眼やら eye やら名前に入ってればええことにするか。ちょっと検索したろ」&lt;/p&gt;</description>
+      <guid>https://kintsuba.blog/blog/2021/08/19/edh-eye-part1/</guid>
+      <description>&lt;h2 id=&#34;眼&#34;&gt;眼&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;  &#xA;  &lt;amp-img src=&#34;https://kintsuba.blog/blog/2021/08/19/edh-eye-part1/evil-eye-of-urborg_hu5859978322384772566.png&#34; alt=&#34;&#34; width=&#34;298&#34; height=&#34;416&#34; layout=&#34;fixed&#34;&gt;&lt;/amp-img&gt;&#xA;&#xA;&#xA;&lt;p&gt;「アーボーグの邪眼は可愛いなぁ……」&lt;/p&gt;&#xA;&lt;p&gt;「せや、EDH で眼デッキ作ったろ！」&lt;/p&gt;&#xA;&lt;p&gt;「せやけど眼って 3 種類&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;しかおらんしなぁ……」&lt;/p&gt;&#xA;&lt;p&gt;「しゃーない、眼やら eye やら名前に入ってればええことにするか。ちょっと検索したろ」&lt;/p&gt;</description>
     </item>
     <item>
       <title>これから遊ぶゲームどうしようか問題</title>
-      <link>http://localhost:1313/blog/2021/07/13/think-about-what-games-to-play/</link>
+      <link>https://kintsuba.blog/blog/2021/07/13/think-about-what-games-to-play/</link>
       <pubDate>Tue, 13 Jul 2021 13:13:41 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2021/07/13/think-about-what-games-to-play/</guid>
+      <guid>https://kintsuba.blog/blog/2021/07/13/think-about-what-games-to-play/</guid>
       <description>&lt;p&gt;きんつばです。今回は私の最近のゲーム事情です。&lt;/p&gt;&#xA;&lt;p&gt;こんなことで悩めるのは幸せなのかもしれないですが、最近ちょっと無気力気味なので、 1 個くらい熱中できることを見つけられたらいいなって思います。&lt;/p&gt;</description>
     </item>
     <item>
       <title>VRChat始めました</title>
-      <link>http://localhost:1313/blog/2020/09/13/started-vrchat/</link>
+      <link>https://kintsuba.blog/blog/2020/09/13/started-vrchat/</link>
       <pubDate>Sun, 13 Sep 2020 05:57:48 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2020/09/13/started-vrchat/</guid>
+      <guid>https://kintsuba.blog/blog/2020/09/13/started-vrchat/</guid>
       <description>&lt;p&gt;まだまだ残暑の残る季節、いかがお過ごしでしょうか。お久しぶりなきんつばです。&lt;br&gt;&#xA;正直このブログ見るより Twitter か Misskey 見た方がいいと思います。&lt;/p&gt;&#xA;&lt;p&gt;さてさてタイトルにあります通り、私は遂に VRChat での生活をスタートさせました！すごい！えらい！&#xA;……ので、今回はその顛末について書いていきます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>キョダイマックスカイリキー軸トリルスナイパー（剣盾ダブル）</title>
-      <link>http://localhost:1313/blog/2020/06/01/pokemon-swsh-double-party01/</link>
+      <link>https://kintsuba.blog/blog/2020/06/01/pokemon-swsh-double-party01/</link>
       <pubDate>Mon, 01 Jun 2020 18:37:38 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2020/06/01/pokemon-swsh-double-party01/</guid>
+      <guid>https://kintsuba.blog/blog/2020/06/01/pokemon-swsh-double-party01/</guid>
       <description>&lt;p&gt;もうすぐ夏ですね、ここ最近家ではずっと半袖なきんつばです。&lt;br&gt;&#xA;この間エアコンが壊れてるっぽいことに気付いて、ちょっと焦っています。&lt;/p&gt;&#xA;&lt;p&gt;さて今回は、ポケモン剣盾でダブルバトル用のユニークなパーティーを作ったので紹介したいと思います。&lt;/p&gt;</description>
     </item>
     <item>
       <title>毎日こつこつ俺タワーはいいぞっていうお話</title>
-      <link>http://localhost:1313/blog/2020/03/13/oletower-ha-iizo/</link>
+      <link>https://kintsuba.blog/blog/2020/03/13/oletower-ha-iizo/</link>
       <pubDate>Fri, 13 Mar 2020 12:04:52 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2020/03/13/oletower-ha-iizo/</guid>
+      <guid>https://kintsuba.blog/blog/2020/03/13/oletower-ha-iizo/</guid>
       <description>&lt;p&gt;どんどん暖かくなってきて大変幸せです、きんつばです。&lt;br&gt;&#xA;後は騒ぎが収まってくれれば……ですね。&lt;/p&gt;&#xA;&lt;p&gt;さて、今回は私が愛する俺タワーについてです。&lt;/p&gt;&#xA;&lt;p&gt;めいすきーでは断片的な情報をばら撒いているだけで、結局何がどうなって今はどんな感じなの？っていうのが分からないことに気づいたので、ここらで一度情報をまとめたいと思います。&lt;/p&gt;</description>
     </item>
     <item>
       <title>最近やってるゲームとか(2020年2月)</title>
-      <link>http://localhost:1313/blog/2020/02/13/recently-game3/</link>
+      <link>https://kintsuba.blog/blog/2020/02/13/recently-game3/</link>
       <pubDate>Thu, 13 Feb 2020 12:52:17 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2020/02/13/recently-game3/</guid>
+      <guid>https://kintsuba.blog/blog/2020/02/13/recently-game3/</guid>
       <description>&lt;p&gt;寒いっちゃ寒いけど、マイナスを下回らなければそこまでじゃないと思う、&lt;br&gt;&#xA;山形出身のきんつばです。手がかじかまないうちは快適。&lt;/p&gt;&#xA;&lt;p&gt;今回も私の最近のゲーム事情です。ゲームばっかりやってるから仕方ないね。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello, Hugo</title>
-      <link>http://localhost:1313/blog/2020/02/04/hugo/</link>
+      <link>https://kintsuba.blog/blog/2020/02/04/hugo/</link>
       <pubDate>Tue, 04 Feb 2020 15:27:56 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2020/02/04/hugo/</guid>
+      <guid>https://kintsuba.blog/blog/2020/02/04/hugo/</guid>
       <description>&lt;p&gt;あけまして 1ヶ月経ちましたがいかがお過ごしでしょうか。きんつばです。&lt;/p&gt;&#xA;&lt;p&gt;放置していたブログをなんとかしようと思いまして、AMP 対応も兼ねて &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; を使い始めました。テーマは &lt;a href=&#34;https://github.com/dim0627/hugo_theme_robust&#34;&gt;Robust&lt;/a&gt; を使用させていただいています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>bukibin-search.com ができるまで</title>
-      <link>http://localhost:1313/blog/2019/09/05/bukibin-search-com/</link>
+      <link>https://kintsuba.blog/blog/2019/09/05/bukibin-search-com/</link>
       <pubDate>Thu, 05 Sep 2019 07:27:34 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/09/05/bukibin-search-com/</guid>
-      <description>&lt;p&gt;今日はなんと私の誕生日です、きんつばです。&lt;br&gt;&#xA;&lt;a href=&#34;https://misskey.m544.net/&#34;&gt;めいすきー&lt;/a&gt;で今日誕生日なので祝ってって投稿したら、ちゃんとみんなお祝いの言葉をくれたのが嬉しかったです。&lt;/p&gt;&#xA;&lt;p&gt;さて誕生日とは何も関係なく、今回は&lt;abbr title=&#34;不器用ビンボーダンス&#34;&gt;武器瓶&lt;/abbr&gt;のファンサイトというかツールのようなものを作ったというお話です。&lt;br&gt;&#xA;不器用ビンボーダンスについてご存じない方は、&lt;a href=&#34;http://localhost:1313/2019/08/03/about-bukiyo-binbo-dance/&#34;&gt;前回の記事&lt;/a&gt;で語っていますのでそちらを参照ください。&lt;/p&gt;&#xA;&lt;h2 id=&#34;できたもの&#34;&gt;できたもの&lt;/h2&gt;&#xA;&lt;p&gt;ひとまず完成したものがこちらになります。&lt;/p&gt;</description>
+      <guid>https://kintsuba.blog/blog/2019/09/05/bukibin-search-com/</guid>
+      <description>&lt;p&gt;今日はなんと私の誕生日です、きんつばです。&lt;br&gt;&#xA;&lt;a href=&#34;https://misskey.m544.net/&#34;&gt;めいすきー&lt;/a&gt;で今日誕生日なので祝ってって投稿したら、ちゃんとみんなお祝いの言葉をくれたのが嬉しかったです。&lt;/p&gt;&#xA;&lt;p&gt;さて誕生日とは何も関係なく、今回は&lt;abbr title=&#34;不器用ビンボーダンス&#34;&gt;武器瓶&lt;/abbr&gt;のファンサイトというかツールのようなものを作ったというお話です。&lt;br&gt;&#xA;不器用ビンボーダンスについてご存じない方は、&lt;a href=&#34;https://kintsuba.blog/2019/08/03/about-bukiyo-binbo-dance/&#34;&gt;前回の記事&lt;/a&gt;で語っていますのでそちらを参照ください。&lt;/p&gt;&#xA;&lt;h2 id=&#34;できたもの&#34;&gt;できたもの&lt;/h2&gt;&#xA;&lt;p&gt;ひとまず完成したものがこちらになります。&lt;/p&gt;</description>
     </item>
     <item>
       <title>『不器用ビンボーダンス』の話をしよう</title>
-      <link>http://localhost:1313/blog/2019/08/03/about-bukiyo-binbo-dance/</link>
+      <link>https://kintsuba.blog/blog/2019/08/03/about-bukiyo-binbo-dance/</link>
       <pubDate>Sat, 03 Aug 2019 13:17:38 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/08/03/about-bukiyo-binbo-dance/</guid>
+      <guid>https://kintsuba.blog/blog/2019/08/03/about-bukiyo-binbo-dance/</guid>
       <description>&lt;p&gt;やるゲームが多すぎて毎日忙しいです。きんつばです。&lt;br&gt;&#xA;幸せですが、時間が足りなすぎます。仕事休みたい。&lt;/p&gt;&#xA;&lt;p&gt;さて今回は、毎日更新という作者の正気を疑う漫画、『不器用ビンボーダンス』（略称:武器瓶）についてです。&lt;br&gt;&#xA;人によって好みが大きく変わるタイプの漫画だと思うので、とりあえず何話か読んで判断するといいと思います。&lt;br&gt;&#xA;以下のサイトで読めます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>蒼天のスカイガレオン サービス開始</title>
-      <link>http://localhost:1313/blog/2019/08/01/release-skygalleon/</link>
+      <link>https://kintsuba.blog/blog/2019/08/01/release-skygalleon/</link>
       <pubDate>Thu, 01 Aug 2019 18:16:55 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/08/01/release-skygalleon/</guid>
+      <guid>https://kintsuba.blog/blog/2019/08/01/release-skygalleon/</guid>
       <description>&lt;p&gt;今再び、蒼い天へ……。遂にスカガレが帰ってきましたね、きんつばです。&lt;br&gt;&#xA;最初のガチャを無心で引き直してたら UR コノハナサクヤヒメ 出ました。つよい。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Twitter プラグインを使用しないことにしました</title>
-      <link>http://localhost:1313/blog/2019/07/26/disable-twitter-plugin/</link>
+      <link>https://kintsuba.blog/blog/2019/07/26/disable-twitter-plugin/</link>
       <pubDate>Sun, 28 Jul 2019 22:29:43 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/07/26/disable-twitter-plugin/</guid>
+      <guid>https://kintsuba.blog/blog/2019/07/26/disable-twitter-plugin/</guid>
       <description>&lt;p&gt;hexo-tag-twitter で埋め込んでいる Twitter の投稿がページが重い要因になっていたので、該当部分を各ページから削除しました。&lt;br&gt;&#xA;微妙に不便です。代替手段があるといいのですけど。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Misskey のすすめ</title>
-      <link>http://localhost:1313/blog/2019/07/27/introduce-misskey/</link>
+      <link>https://kintsuba.blog/blog/2019/07/27/introduce-misskey/</link>
       <pubDate>Sat, 27 Jul 2019 16:30:26 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/07/27/introduce-misskey/</guid>
+      <guid>https://kintsuba.blog/blog/2019/07/27/introduce-misskey/</guid>
       <description>&lt;p&gt;エアコンの効いた部屋に籠りたい、きんつばです。&lt;br&gt;&#xA;台風が来るわ、日に日に暑くなるわ、夏本番って感じですね。&lt;/p&gt;&#xA;&lt;p&gt;閑話休題、みなさんは Misskey というものはご存じでしょうか。&lt;br&gt;&#xA;公式の Wiki にはこう書いてあります。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ルーンファクトリー4 スペシャル発売！</title>
-      <link>http://localhost:1313/blog/2019/07/28/release-runefactory4sp/</link>
+      <link>https://kintsuba.blog/blog/2019/07/28/release-runefactory4sp/</link>
       <pubDate>Fri, 26 Jul 2019 09:44:33 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/07/28/release-runefactory4sp/</guid>
+      <guid>https://kintsuba.blog/blog/2019/07/28/release-runefactory4sp/</guid>
       <description>&lt;p&gt;いやー、遂に、遂に発売しましたね「ルーンファクトリー4 スペシャル」。7年待ちました、きんつばです。&lt;br&gt;&#xA;7年ですよ、7年。当時高校生だった私も、今は立派に社会人なわけで……。&lt;/p&gt;</description>
     </item>
     <item>
       <title>続：最近やってるゲームとか</title>
-      <link>http://localhost:1313/blog/2019/04/17/recently-game2/</link>
+      <link>https://kintsuba.blog/blog/2019/04/17/recently-game2/</link>
       <pubDate>Wed, 17 Apr 2019 13:23:41 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/04/17/recently-game2/</guid>
+      <guid>https://kintsuba.blog/blog/2019/04/17/recently-game2/</guid>
       <description>&lt;p&gt;あれからまた 1ヶ月以上の月日が経った――。ブログなんてこんなもの、きんつばです。&lt;br&gt;&#xA;ネタが思いつかなかったので前回と同じです。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://store.steampowered.com/app/252950/Rocket_League/?l=japanese&#34;&gt;Rocket League&lt;/a&gt; は変わらず楽しく遊んでます。協力系対戦ゲームでこんなに遊んだゲームは初めてです。プレイ時間が短いのが良いのでしょうか。&lt;br&gt;&#xA;最近ニコニコに動画を上げたのですが、完成度がアレなのでここには載せないことにします。いやしかし、動画編集疲れますね。よく皆さんあんなに動画上げられるなーって思いました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>最近やってるゲームとか</title>
-      <link>http://localhost:1313/blog/2019/02/25/recently-game/</link>
+      <link>https://kintsuba.blog/blog/2019/02/25/recently-game/</link>
       <pubDate>Mon, 25 Feb 2019 23:04:25 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/02/25/recently-game/</guid>
+      <guid>https://kintsuba.blog/blog/2019/02/25/recently-game/</guid>
       <description>&lt;p&gt;あれから 1ヶ月以上の月日が経った――。時間が経つのは早いですね、きんつばです。&lt;br&gt;&#xA;流石に何か書かないとなーって思ったので、最近どんなゲームやってるかってのをプレイ時間順に書いときます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>何個目のブログだろう……</title>
-      <link>http://localhost:1313/blog/2019/01/16/new-blog/</link>
+      <link>https://kintsuba.blog/blog/2019/01/16/new-blog/</link>
       <pubDate>Wed, 16 Jan 2019 14:28:01 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/01/16/new-blog/</guid>
+      <guid>https://kintsuba.blog/blog/2019/01/16/new-blog/</guid>
       <description>&lt;p&gt;毎回今度こそ……とは思うんですけど、絶対長続きしないんですよね、ブログって。いつの間にか Twitter ばかりになっちゃいます。でもまぁ、それでも諦められないのが人間ってものです。&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Misskey on Kintsuba&#39;s Blog</title>
-    <link>http://localhost:1313/tags/misskey/</link>
+    <link>https://kintsuba.blog/tags/misskey/</link>
     <description>Recent content in Misskey on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 27 Jul 2019 16:30:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/misskey/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kintsuba.blog/tags/misskey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Misskey のすすめ</title>
-      <link>http://localhost:1313/blog/2019/07/27/introduce-misskey/</link>
+      <link>https://kintsuba.blog/blog/2019/07/27/introduce-misskey/</link>
       <pubDate>Sat, 27 Jul 2019 16:30:26 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/07/27/introduce-misskey/</guid>
+      <guid>https://kintsuba.blog/blog/2019/07/27/introduce-misskey/</guid>
       <description>&lt;p&gt;エアコンの効いた部屋に籠りたい、きんつばです。&lt;br&gt;&#xA;台風が来るわ、日に日に暑くなるわ、夏本番って感じですね。&lt;/p&gt;&#xA;&lt;p&gt;閑話休題、みなさんは Misskey というものはご存じでしょうか。&lt;br&gt;&#xA;公式の Wiki にはこう書いてあります。&lt;/p&gt;</description>
     </item>
   </channel>

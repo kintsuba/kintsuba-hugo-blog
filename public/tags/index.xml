@@ -2,269 +2,269 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kintsuba&#39;s Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://kintsuba.blog/tags/</link>
     <description>Recent content in Tags on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 17 Mar 2024 01:12:41 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kintsuba.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NEKOGURUMA</title>
-      <link>http://localhost:1313/tags/nekoguruma/</link>
+      <link>https://kintsuba.blog/tags/nekoguruma/</link>
       <pubDate>Sun, 17 Mar 2024 01:12:41 +0900</pubDate>
-      <guid>http://localhost:1313/tags/nekoguruma/</guid>
+      <guid>https://kintsuba.blog/tags/nekoguruma/</guid>
       <description></description>
     </item>
     <item>
       <title>完全メシDELI</title>
-      <link>http://localhost:1313/tags/%E5%AE%8C%E5%85%A8%E3%83%A1%E3%82%B7deli/</link>
+      <link>https://kintsuba.blog/tags/%E5%AE%8C%E5%85%A8%E3%83%A1%E3%82%B7deli/</link>
       <pubDate>Sun, 17 Mar 2024 01:12:41 +0900</pubDate>
-      <guid>http://localhost:1313/tags/%E5%AE%8C%E5%85%A8%E3%83%A1%E3%82%B7deli/</guid>
+      <guid>https://kintsuba.blog/tags/%E5%AE%8C%E5%85%A8%E3%83%A1%E3%82%B7deli/</guid>
       <description></description>
     </item>
     <item>
       <title>Minecraft</title>
-      <link>http://localhost:1313/tags/minecraft/</link>
+      <link>https://kintsuba.blog/tags/minecraft/</link>
       <pubDate>Sat, 02 Dec 2023 01:14:10 +0900</pubDate>
-      <guid>http://localhost:1313/tags/minecraft/</guid>
+      <guid>https://kintsuba.blog/tags/minecraft/</guid>
       <description></description>
     </item>
     <item>
       <title>Path of Exile</title>
-      <link>http://localhost:1313/tags/path-of-exile/</link>
+      <link>https://kintsuba.blog/tags/path-of-exile/</link>
       <pubDate>Fri, 07 Apr 2023 21:29:20 +0900</pubDate>
-      <guid>http://localhost:1313/tags/path-of-exile/</guid>
+      <guid>https://kintsuba.blog/tags/path-of-exile/</guid>
       <description></description>
     </item>
     <item>
       <title>PoE初心者向け</title>
-      <link>http://localhost:1313/tags/poe%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91/</link>
+      <link>https://kintsuba.blog/tags/poe%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91/</link>
       <pubDate>Wed, 05 Apr 2023 19:39:24 +0900</pubDate>
-      <guid>http://localhost:1313/tags/poe%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91/</guid>
+      <guid>https://kintsuba.blog/tags/poe%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91/</guid>
       <description></description>
     </item>
     <item>
       <title>TFT</title>
-      <link>http://localhost:1313/tags/tft/</link>
+      <link>https://kintsuba.blog/tags/tft/</link>
       <pubDate>Fri, 08 Apr 2022 14:07:03 +0900</pubDate>
-      <guid>http://localhost:1313/tags/tft/</guid>
+      <guid>https://kintsuba.blog/tags/tft/</guid>
       <description></description>
     </item>
     <item>
       <title>VRChat</title>
-      <link>http://localhost:1313/tags/vrchat/</link>
+      <link>https://kintsuba.blog/tags/vrchat/</link>
       <pubDate>Wed, 22 Dec 2021 15:48:57 +0900</pubDate>
-      <guid>http://localhost:1313/tags/vrchat/</guid>
+      <guid>https://kintsuba.blog/tags/vrchat/</guid>
       <description></description>
     </item>
     <item>
       <title>EDH</title>
-      <link>http://localhost:1313/tags/edh/</link>
+      <link>https://kintsuba.blog/tags/edh/</link>
       <pubDate>Fri, 03 Sep 2021 11:35:16 +0900</pubDate>
-      <guid>http://localhost:1313/tags/edh/</guid>
+      <guid>https://kintsuba.blog/tags/edh/</guid>
       <description></description>
     </item>
     <item>
       <title>Eye</title>
-      <link>http://localhost:1313/tags/eye/</link>
+      <link>https://kintsuba.blog/tags/eye/</link>
       <pubDate>Fri, 03 Sep 2021 11:35:16 +0900</pubDate>
-      <guid>http://localhost:1313/tags/eye/</guid>
+      <guid>https://kintsuba.blog/tags/eye/</guid>
       <description></description>
     </item>
     <item>
       <title>MTG</title>
-      <link>http://localhost:1313/tags/mtg/</link>
+      <link>https://kintsuba.blog/tags/mtg/</link>
       <pubDate>Fri, 03 Sep 2021 11:35:16 +0900</pubDate>
-      <guid>http://localhost:1313/tags/mtg/</guid>
+      <guid>https://kintsuba.blog/tags/mtg/</guid>
       <description></description>
     </item>
     <item>
       <title>Dauntless</title>
-      <link>http://localhost:1313/tags/dauntless/</link>
+      <link>https://kintsuba.blog/tags/dauntless/</link>
       <pubDate>Tue, 13 Jul 2021 13:13:41 +0900</pubDate>
-      <guid>http://localhost:1313/tags/dauntless/</guid>
+      <guid>https://kintsuba.blog/tags/dauntless/</guid>
       <description></description>
     </item>
     <item>
       <title>League of Legends</title>
-      <link>http://localhost:1313/tags/league-of-legends/</link>
+      <link>https://kintsuba.blog/tags/league-of-legends/</link>
       <pubDate>Tue, 13 Jul 2021 13:13:41 +0900</pubDate>
-      <guid>http://localhost:1313/tags/league-of-legends/</guid>
+      <guid>https://kintsuba.blog/tags/league-of-legends/</guid>
       <description></description>
     </item>
     <item>
       <title>Rocket League</title>
-      <link>http://localhost:1313/tags/rocket-league/</link>
+      <link>https://kintsuba.blog/tags/rocket-league/</link>
       <pubDate>Tue, 13 Jul 2021 13:13:41 +0900</pubDate>
-      <guid>http://localhost:1313/tags/rocket-league/</guid>
+      <guid>https://kintsuba.blog/tags/rocket-league/</guid>
       <description></description>
     </item>
     <item>
       <title>サージュコンチェルトDX</title>
-      <link>http://localhost:1313/tags/%E3%82%B5%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88dx/</link>
+      <link>https://kintsuba.blog/tags/%E3%82%B5%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88dx/</link>
       <pubDate>Tue, 13 Jul 2021 13:13:41 +0900</pubDate>
-      <guid>http://localhost:1313/tags/%E3%82%B5%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88dx/</guid>
+      <guid>https://kintsuba.blog/tags/%E3%82%B5%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88dx/</guid>
       <description></description>
     </item>
     <item>
       <title>ルーンファクトリー5</title>
-      <link>http://localhost:1313/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC5/</link>
+      <link>https://kintsuba.blog/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC5/</link>
       <pubDate>Tue, 13 Jul 2021 13:13:41 +0900</pubDate>
-      <guid>http://localhost:1313/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC5/</guid>
+      <guid>https://kintsuba.blog/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC5/</guid>
       <description></description>
     </item>
     <item>
       <title>戦国無双5</title>
-      <link>http://localhost:1313/tags/%E6%88%A6%E5%9B%BD%E7%84%A1%E5%8F%8C5/</link>
+      <link>https://kintsuba.blog/tags/%E6%88%A6%E5%9B%BD%E7%84%A1%E5%8F%8C5/</link>
       <pubDate>Tue, 13 Jul 2021 13:13:41 +0900</pubDate>
-      <guid>http://localhost:1313/tags/%E6%88%A6%E5%9B%BD%E7%84%A1%E5%8F%8C5/</guid>
+      <guid>https://kintsuba.blog/tags/%E6%88%A6%E5%9B%BD%E7%84%A1%E5%8F%8C5/</guid>
       <description></description>
     </item>
     <item>
       <title>EXVSMBON</title>
-      <link>http://localhost:1313/tags/exvsmbon/</link>
+      <link>https://kintsuba.blog/tags/exvsmbon/</link>
       <pubDate>Tue, 30 Jun 2020 17:37:05 +0900</pubDate>
-      <guid>http://localhost:1313/tags/exvsmbon/</guid>
+      <guid>https://kintsuba.blog/tags/exvsmbon/</guid>
       <description></description>
     </item>
     <item>
       <title>ガイアガンダム</title>
-      <link>http://localhost:1313/tags/%E3%82%AC%E3%82%A4%E3%82%A2%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</link>
+      <link>https://kintsuba.blog/tags/%E3%82%AC%E3%82%A4%E3%82%A2%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</link>
       <pubDate>Tue, 30 Jun 2020 17:37:05 +0900</pubDate>
-      <guid>http://localhost:1313/tags/%E3%82%AC%E3%82%A4%E3%82%A2%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</guid>
+      <guid>https://kintsuba.blog/tags/%E3%82%AC%E3%82%A4%E3%82%A2%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</guid>
       <description></description>
     </item>
     <item>
       <title>ポケモン剣盾</title>
-      <link>http://localhost:1313/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E5%89%A3%E7%9B%BE/</link>
+      <link>https://kintsuba.blog/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E5%89%A3%E7%9B%BE/</link>
       <pubDate>Mon, 01 Jun 2020 18:37:38 +0900</pubDate>
-      <guid>http://localhost:1313/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E5%89%A3%E7%9B%BE/</guid>
+      <guid>https://kintsuba.blog/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E5%89%A3%E7%9B%BE/</guid>
       <description></description>
     </item>
     <item>
       <title>SDガンダム ジージェネレーション クロスレイズ</title>
-      <link>http://localhost:1313/tags/sd%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0-%E3%82%B8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%AC%E3%82%A4%E3%82%BA/</link>
+      <link>https://kintsuba.blog/tags/sd%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0-%E3%82%B8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%AC%E3%82%A4%E3%82%BA/</link>
       <pubDate>Wed, 13 May 2020 11:12:13 +0900</pubDate>
-      <guid>http://localhost:1313/tags/sd%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0-%E3%82%B8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%AC%E3%82%A4%E3%82%BA/</guid>
+      <guid>https://kintsuba.blog/tags/sd%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0-%E3%82%B8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%AC%E3%82%A4%E3%82%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>俺タワー</title>
-      <link>http://localhost:1313/tags/%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/</link>
+      <link>https://kintsuba.blog/tags/%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/</link>
       <pubDate>Fri, 13 Mar 2020 12:04:52 +0900</pubDate>
-      <guid>http://localhost:1313/tags/%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/</guid>
+      <guid>https://kintsuba.blog/tags/%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>毎日こつこつ俺タワー</title>
-      <link>http://localhost:1313/tags/%E6%AF%8E%E6%97%A5%E3%81%93%E3%81%A4%E3%81%93%E3%81%A4%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/</link>
+      <link>https://kintsuba.blog/tags/%E6%AF%8E%E6%97%A5%E3%81%93%E3%81%A4%E3%81%93%E3%81%A4%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/</link>
       <pubDate>Fri, 13 Mar 2020 12:04:52 +0900</pubDate>
-      <guid>http://localhost:1313/tags/%E6%AF%8E%E6%97%A5%E3%81%93%E3%81%A4%E3%81%93%E3%81%A4%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/</guid>
+      <guid>https://kintsuba.blog/tags/%E6%AF%8E%E6%97%A5%E3%81%93%E3%81%A4%E3%81%93%E3%81%A4%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>League of Legend</title>
-      <link>http://localhost:1313/tags/league-of-legend/</link>
+      <link>https://kintsuba.blog/tags/league-of-legend/</link>
       <pubDate>Thu, 13 Feb 2020 12:52:17 +0900</pubDate>
-      <guid>http://localhost:1313/tags/league-of-legend/</guid>
+      <guid>https://kintsuba.blog/tags/league-of-legend/</guid>
       <description></description>
     </item>
     <item>
       <title>MTG Arena</title>
-      <link>http://localhost:1313/tags/mtg-arena/</link>
+      <link>https://kintsuba.blog/tags/mtg-arena/</link>
       <pubDate>Thu, 13 Feb 2020 12:52:17 +0900</pubDate>
-      <guid>http://localhost:1313/tags/mtg-arena/</guid>
+      <guid>https://kintsuba.blog/tags/mtg-arena/</guid>
       <description></description>
     </item>
     <item>
       <title>ルーンファクトリー4 スペシャル</title>
-      <link>http://localhost:1313/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC4-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB/</link>
+      <link>https://kintsuba.blog/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC4-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB/</link>
       <pubDate>Thu, 13 Feb 2020 12:52:17 +0900</pubDate>
-      <guid>http://localhost:1313/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC4-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB/</guid>
+      <guid>https://kintsuba.blog/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC4-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>Buefy</title>
-      <link>http://localhost:1313/tags/buefy/</link>
+      <link>https://kintsuba.blog/tags/buefy/</link>
       <pubDate>Thu, 05 Sep 2019 07:27:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/buefy/</guid>
+      <guid>https://kintsuba.blog/tags/buefy/</guid>
       <description></description>
     </item>
     <item>
       <title>Netlify</title>
-      <link>http://localhost:1313/tags/netlify/</link>
+      <link>https://kintsuba.blog/tags/netlify/</link>
       <pubDate>Thu, 05 Sep 2019 07:27:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/netlify/</guid>
+      <guid>https://kintsuba.blog/tags/netlify/</guid>
       <description></description>
     </item>
     <item>
       <title>Nuxt.js</title>
-      <link>http://localhost:1313/tags/nuxt.js/</link>
+      <link>https://kintsuba.blog/tags/nuxt.js/</link>
       <pubDate>Thu, 05 Sep 2019 07:27:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nuxt.js/</guid>
+      <guid>https://kintsuba.blog/tags/nuxt.js/</guid>
       <description></description>
     </item>
     <item>
       <title>TypeScript</title>
-      <link>http://localhost:1313/tags/typescript/</link>
+      <link>https://kintsuba.blog/tags/typescript/</link>
       <pubDate>Thu, 05 Sep 2019 07:27:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/typescript/</guid>
+      <guid>https://kintsuba.blog/tags/typescript/</guid>
       <description></description>
     </item>
     <item>
       <title>不器用ビンボーダンス</title>
-      <link>http://localhost:1313/tags/%E4%B8%8D%E5%99%A8%E7%94%A8%E3%83%93%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9/</link>
+      <link>https://kintsuba.blog/tags/%E4%B8%8D%E5%99%A8%E7%94%A8%E3%83%93%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9/</link>
       <pubDate>Thu, 05 Sep 2019 07:27:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E4%B8%8D%E5%99%A8%E7%94%A8%E3%83%93%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9/</guid>
+      <guid>https://kintsuba.blog/tags/%E4%B8%8D%E5%99%A8%E7%94%A8%E3%83%93%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
       <title>蒼天のスカイガレオン</title>
-      <link>http://localhost:1313/tags/%E8%92%BC%E5%A4%A9%E3%81%AE%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%AC%E3%83%AC%E3%82%AA%E3%83%B3/</link>
+      <link>https://kintsuba.blog/tags/%E8%92%BC%E5%A4%A9%E3%81%AE%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%AC%E3%83%AC%E3%82%AA%E3%83%B3/</link>
       <pubDate>Thu, 01 Aug 2019 18:16:55 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%92%BC%E5%A4%A9%E3%81%AE%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%AC%E3%83%AC%E3%82%AA%E3%83%B3/</guid>
+      <guid>https://kintsuba.blog/tags/%E8%92%BC%E5%A4%A9%E3%81%AE%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%AC%E3%83%AC%E3%82%AA%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>Hexo</title>
-      <link>http://localhost:1313/tags/hexo/</link>
+      <link>https://kintsuba.blog/tags/hexo/</link>
       <pubDate>Sun, 28 Jul 2019 22:29:43 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hexo/</guid>
+      <guid>https://kintsuba.blog/tags/hexo/</guid>
       <description></description>
     </item>
     <item>
       <title>Misskey</title>
-      <link>http://localhost:1313/tags/misskey/</link>
+      <link>https://kintsuba.blog/tags/misskey/</link>
       <pubDate>Sat, 27 Jul 2019 16:30:26 +0000</pubDate>
-      <guid>http://localhost:1313/tags/misskey/</guid>
+      <guid>https://kintsuba.blog/tags/misskey/</guid>
       <description></description>
     </item>
     <item>
       <title>Farming Simulator 19</title>
-      <link>http://localhost:1313/tags/farming-simulator-19/</link>
+      <link>https://kintsuba.blog/tags/farming-simulator-19/</link>
       <pubDate>Wed, 17 Apr 2019 13:23:41 +0000</pubDate>
-      <guid>http://localhost:1313/tags/farming-simulator-19/</guid>
+      <guid>https://kintsuba.blog/tags/farming-simulator-19/</guid>
       <description></description>
     </item>
     <item>
       <title>Risk of Rain 2</title>
-      <link>http://localhost:1313/tags/risk-of-rain-2/</link>
+      <link>https://kintsuba.blog/tags/risk-of-rain-2/</link>
       <pubDate>Wed, 17 Apr 2019 13:23:41 +0000</pubDate>
-      <guid>http://localhost:1313/tags/risk-of-rain-2/</guid>
+      <guid>https://kintsuba.blog/tags/risk-of-rain-2/</guid>
       <description></description>
     </item>
     <item>
       <title>FF14</title>
-      <link>http://localhost:1313/tags/ff14/</link>
+      <link>https://kintsuba.blog/tags/ff14/</link>
       <pubDate>Mon, 25 Feb 2019 23:04:25 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ff14/</guid>
+      <guid>https://kintsuba.blog/tags/ff14/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub</title>
-      <link>http://localhost:1313/tags/github/</link>
+      <link>https://kintsuba.blog/tags/github/</link>
       <pubDate>Wed, 16 Jan 2019 14:28:01 +0000</pubDate>
-      <guid>http://localhost:1313/tags/github/</guid>
+      <guid>https://kintsuba.blog/tags/github/</guid>
       <description></description>
     </item>
   </channel>

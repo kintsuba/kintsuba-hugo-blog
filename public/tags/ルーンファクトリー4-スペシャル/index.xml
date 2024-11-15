@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ルーンファクトリー4 スペシャル on Kintsuba&#39;s Blog</title>
-    <link>http://localhost:1313/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC4-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB/</link>
+    <link>https://kintsuba.blog/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC4-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB/</link>
     <description>Recent content in ルーンファクトリー4 スペシャル on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 13 Feb 2020 12:52:17 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC4-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kintsuba.blog/tags/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC4-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最近やってるゲームとか(2020年2月)</title>
-      <link>http://localhost:1313/blog/2020/02/13/recently-game3/</link>
+      <link>https://kintsuba.blog/blog/2020/02/13/recently-game3/</link>
       <pubDate>Thu, 13 Feb 2020 12:52:17 +0900</pubDate>
-      <guid>http://localhost:1313/blog/2020/02/13/recently-game3/</guid>
+      <guid>https://kintsuba.blog/blog/2020/02/13/recently-game3/</guid>
       <description>&lt;p&gt;寒いっちゃ寒いけど、マイナスを下回らなければそこまでじゃないと思う、&lt;br&gt;&#xA;山形出身のきんつばです。手がかじかまないうちは快適。&lt;/p&gt;&#xA;&lt;p&gt;今回も私の最近のゲーム事情です。ゲームばっかりやってるから仕方ないね。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ルーンファクトリー4 スペシャル発売！</title>
-      <link>http://localhost:1313/blog/2019/07/28/release-runefactory4sp/</link>
+      <link>https://kintsuba.blog/blog/2019/07/28/release-runefactory4sp/</link>
       <pubDate>Fri, 26 Jul 2019 09:44:33 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2019/07/28/release-runefactory4sp/</guid>
+      <guid>https://kintsuba.blog/blog/2019/07/28/release-runefactory4sp/</guid>
       <description>&lt;p&gt;いやー、遂に、遂に発売しましたね「ルーンファクトリー4 スペシャル」。7年待ちました、きんつばです。&lt;br&gt;&#xA;7年ですよ、7年。当時高校生だった私も、今は立派に社会人なわけで……。&lt;/p&gt;</description>
     </item>
   </channel>
