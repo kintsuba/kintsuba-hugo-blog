@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>毎日こつこつ俺タワー on Kintsuba&#39;s Blog</title>
-    <link>https://kintsuba.blog/tags/%E6%AF%8E%E6%97%A5%E3%81%93%E3%81%A4%E3%81%93%E3%81%A4%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/</link>
+    <link>http://localhost:1313/tags/%E6%AF%8E%E6%97%A5%E3%81%93%E3%81%A4%E3%81%93%E3%81%A4%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/</link>
     <description>Recent content in 毎日こつこつ俺タワー on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 13 Mar 2020 12:04:52 +0900</lastBuildDate>
-    <atom:link href="https://kintsuba.blog/tags/%E6%AF%8E%E6%97%A5%E3%81%93%E3%81%A4%E3%81%93%E3%81%A4%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%AF%8E%E6%97%A5%E3%81%93%E3%81%A4%E3%81%93%E3%81%A4%E4%BF%BA%E3%82%BF%E3%83%AF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>毎日こつこつ俺タワーはいいぞっていうお話</title>
-      <link>https://kintsuba.blog/blog/2020/03/13/oletower-ha-iizo/</link>
+      <link>http://localhost:1313/blog/2020/03/13/oletower-ha-iizo/</link>
       <pubDate>Fri, 13 Mar 2020 12:04:52 +0900</pubDate>
-      <guid>https://kintsuba.blog/blog/2020/03/13/oletower-ha-iizo/</guid>
+      <guid>http://localhost:1313/blog/2020/03/13/oletower-ha-iizo/</guid>
       <description>&lt;p&gt;どんどん暖かくなってきて大変幸せです、きんつばです。&lt;br&gt;&#xA;後は騒ぎが収まってくれれば……ですね。&lt;/p&gt;&#xA;&lt;p&gt;さて、今回は私が愛する俺タワーについてです。&lt;/p&gt;&#xA;&lt;p&gt;めいすきーでは断片的な情報をばら撒いているだけで、結局何がどうなって今はどんな感じなの？っていうのが分からないことに気づいたので、ここらで一度情報をまとめたいと思います。&lt;/p&gt;</description>
     </item>
   </channel>

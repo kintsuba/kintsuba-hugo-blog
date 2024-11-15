@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GitHub on Kintsuba&#39;s Blog</title>
-    <link>https://kintsuba.blog/tags/github/</link>
+    <link>http://localhost:1313/tags/github/</link>
     <description>Recent content in GitHub on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 16 Jan 2019 14:28:01 +0000</lastBuildDate>
-    <atom:link href="https://kintsuba.blog/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>何個目のブログだろう……</title>
-      <link>https://kintsuba.blog/blog/2019/01/16/new-blog/</link>
+      <link>http://localhost:1313/blog/2019/01/16/new-blog/</link>
       <pubDate>Wed, 16 Jan 2019 14:28:01 +0000</pubDate>
-      <guid>https://kintsuba.blog/blog/2019/01/16/new-blog/</guid>
+      <guid>http://localhost:1313/blog/2019/01/16/new-blog/</guid>
       <description>&lt;p&gt;毎回今度こそ……とは思うんですけど、絶対長続きしないんですよね、ブログって。いつの間にか Twitter ばかりになっちゃいます。でもまぁ、それでも諦められないのが人間ってものです。&lt;/p&gt;</description>
     </item>
   </channel>

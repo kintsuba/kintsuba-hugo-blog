@@ -31,4 +31,15 @@ NEKOGURUMA はＳＥモバイル・アンド・オンライン株式会社が提
 
 ## ダウンロード
 
-準備中
+[ここをクリック](https://github.com/kintsuba/NEKOGURUMA/releases/latest/download/NEKOGURUMA.zip)することで最新版のファイルをダウンロードできます。
+
+## 現在確認されているバグ
+
+現状以下のような症状を確認しています。
+
+- 頻繁にログアウトする、キャッシュが消える
+- 公式のアップデートが入った際、ポップアップを上手く処理できない
+
+## お問い合わせ
+
+新機能の要望、バグ報告などある際は [GitHub](https://github.com/kintsuba/NEKOGURUMA)、[𝕏（旧 Twitter）](https://x.com/awhcs) などにご連絡いただけると嬉しいです。

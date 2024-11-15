@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nuxt.js on Kintsuba&#39;s Blog</title>
-    <link>https://kintsuba.blog/tags/nuxt.js/</link>
+    <link>http://localhost:1313/tags/nuxt.js/</link>
     <description>Recent content in Nuxt.js on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 05 Sep 2019 07:27:34 +0000</lastBuildDate>
-    <atom:link href="https://kintsuba.blog/tags/nuxt.js/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nuxt.js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bukibin-search.com ができるまで</title>
-      <link>https://kintsuba.blog/blog/2019/09/05/bukibin-search-com/</link>
+      <link>http://localhost:1313/blog/2019/09/05/bukibin-search-com/</link>
       <pubDate>Thu, 05 Sep 2019 07:27:34 +0000</pubDate>
-      <guid>https://kintsuba.blog/blog/2019/09/05/bukibin-search-com/</guid>
-      <description>&lt;p&gt;今日はなんと私の誕生日です、きんつばです。&lt;br&gt;&#xA;&lt;a href=&#34;https://misskey.m544.net/&#34;&gt;めいすきー&lt;/a&gt;で今日誕生日なので祝ってって投稿したら、ちゃんとみんなお祝いの言葉をくれたのが嬉しかったです。&lt;/p&gt;&#xA;&lt;p&gt;さて誕生日とは何も関係なく、今回は&lt;abbr title=&#34;不器用ビンボーダンス&#34;&gt;武器瓶&lt;/abbr&gt;のファンサイトというかツールのようなものを作ったというお話です。&lt;br&gt;&#xA;不器用ビンボーダンスについてご存じない方は、&lt;a href=&#34;https://kintsuba.blog/2019/08/03/about-bukiyo-binbo-dance/&#34;&gt;前回の記事&lt;/a&gt;で語っていますのでそちらを参照ください。&lt;/p&gt;&#xA;&lt;h2 id=&#34;できたもの&#34;&gt;できたもの&lt;/h2&gt;&#xA;&lt;p&gt;ひとまず完成したものがこちらになります。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/2019/09/05/bukibin-search-com/</guid>
+      <description>&lt;p&gt;今日はなんと私の誕生日です、きんつばです。&lt;br&gt;&#xA;&lt;a href=&#34;https://misskey.m544.net/&#34;&gt;めいすきー&lt;/a&gt;で今日誕生日なので祝ってって投稿したら、ちゃんとみんなお祝いの言葉をくれたのが嬉しかったです。&lt;/p&gt;&#xA;&lt;p&gt;さて誕生日とは何も関係なく、今回は&lt;abbr title=&#34;不器用ビンボーダンス&#34;&gt;武器瓶&lt;/abbr&gt;のファンサイトというかツールのようなものを作ったというお話です。&lt;br&gt;&#xA;不器用ビンボーダンスについてご存じない方は、&lt;a href=&#34;http://localhost:1313/2019/08/03/about-bukiyo-binbo-dance/&#34;&gt;前回の記事&lt;/a&gt;で語っていますのでそちらを参照ください。&lt;/p&gt;&#xA;&lt;h2 id=&#34;できたもの&#34;&gt;できたもの&lt;/h2&gt;&#xA;&lt;p&gt;ひとまず完成したものがこちらになります。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ガイアガンダム on Kintsuba&#39;s Blog</title>
-    <link>https://kintsuba.blog/tags/%E3%82%AC%E3%82%A4%E3%82%A2%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</link>
+    <link>http://localhost:1313/tags/%E3%82%AC%E3%82%A4%E3%82%A2%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/</link>
     <description>Recent content in ガイアガンダム on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 30 Jun 2020 17:37:05 +0900</lastBuildDate>
-    <atom:link href="https://kintsuba.blog/tags/%E3%82%AC%E3%82%A4%E3%82%A2%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%82%AC%E3%82%A4%E3%82%A2%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>（メモ）EXVSMBON ガイアガンダム初心者まとめ</title>
-      <link>https://kintsuba.blog/memo/2020/06/30/exvsmbon-gaia-gundam-matome/</link>
+      <link>http://localhost:1313/memo/2020/06/30/exvsmbon-gaia-gundam-matome/</link>
       <pubDate>Tue, 30 Jun 2020 17:37:05 +0900</pubDate>
-      <guid>https://kintsuba.blog/memo/2020/06/30/exvsmbon-gaia-gundam-matome/</guid>
+      <guid>http://localhost:1313/memo/2020/06/30/exvsmbon-gaia-gundam-matome/</guid>
       <description>&lt;p&gt;ガイア縛りで少佐になったので、ある程度の信憑性はあると思います。&lt;/p&gt;&#xA;&lt;h2 id=&#34;とりあえず見るべきもの&#34;&gt;とりあえず見るべきもの&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://w.atwiki.jp/gundamexvsmbon/pages/183.html&#34;&gt;Wiki&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/results?search_query=%E3%82%AC%E3%82%A4%E3%82%A2%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0+EXVSMBON&#34;&gt;YouTube の上手い人の動画&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;基本の立ち回り&#34;&gt;基本の立ち回り&lt;/h2&gt;&#xA;&lt;h3 id=&#34;序盤&#34;&gt;序盤&lt;/h3&gt;&#xA;&lt;p&gt;赤ロックギリギリからメイン→レバー入れサブ、メイン→レバー入れ特射が安定択。&lt;br&gt;&#xA;特にレバー入れ特射は事故で当たる事も多いので優秀。&lt;/p&gt;</description>
     </item>
   </channel>

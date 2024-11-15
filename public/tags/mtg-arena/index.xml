@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MTG Arena on Kintsuba&#39;s Blog</title>
-    <link>https://kintsuba.blog/tags/mtg-arena/</link>
+    <link>http://localhost:1313/tags/mtg-arena/</link>
     <description>Recent content in MTG Arena on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 13 Feb 2020 12:52:17 +0900</lastBuildDate>
-    <atom:link href="https://kintsuba.blog/tags/mtg-arena/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mtg-arena/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最近やってるゲームとか(2020年2月)</title>
-      <link>https://kintsuba.blog/blog/2020/02/13/recently-game3/</link>
+      <link>http://localhost:1313/blog/2020/02/13/recently-game3/</link>
       <pubDate>Thu, 13 Feb 2020 12:52:17 +0900</pubDate>
-      <guid>https://kintsuba.blog/blog/2020/02/13/recently-game3/</guid>
+      <guid>http://localhost:1313/blog/2020/02/13/recently-game3/</guid>
       <description>&lt;p&gt;寒いっちゃ寒いけど、マイナスを下回らなければそこまでじゃないと思う、&lt;br&gt;&#xA;山形出身のきんつばです。手がかじかまないうちは快適。&lt;/p&gt;&#xA;&lt;p&gt;今回も私の最近のゲーム事情です。ゲームばっかりやってるから仕方ないね。&lt;/p&gt;</description>
     </item>
     <item>
       <title>続：最近やってるゲームとか</title>
-      <link>https://kintsuba.blog/blog/2019/04/17/recently-game2/</link>
+      <link>http://localhost:1313/blog/2019/04/17/recently-game2/</link>
       <pubDate>Wed, 17 Apr 2019 13:23:41 +0000</pubDate>
-      <guid>https://kintsuba.blog/blog/2019/04/17/recently-game2/</guid>
+      <guid>http://localhost:1313/blog/2019/04/17/recently-game2/</guid>
       <description>&lt;p&gt;あれからまた 1ヶ月以上の月日が経った――。ブログなんてこんなもの、きんつばです。&lt;br&gt;&#xA;ネタが思いつかなかったので前回と同じです。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://store.steampowered.com/app/252950/Rocket_League/?l=japanese&#34;&gt;Rocket League&lt;/a&gt; は変わらず楽しく遊んでます。協力系対戦ゲームでこんなに遊んだゲームは初めてです。プレイ時間が短いのが良いのでしょうか。&lt;br&gt;&#xA;最近ニコニコに動画を上げたのですが、完成度がアレなのでここには載せないことにします。いやしかし、動画編集疲れますね。よく皆さんあんなに動画上げられるなーって思いました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>最近やってるゲームとか</title>
-      <link>https://kintsuba.blog/blog/2019/02/25/recently-game/</link>
+      <link>http://localhost:1313/blog/2019/02/25/recently-game/</link>
       <pubDate>Mon, 25 Feb 2019 23:04:25 +0000</pubDate>
-      <guid>https://kintsuba.blog/blog/2019/02/25/recently-game/</guid>
+      <guid>http://localhost:1313/blog/2019/02/25/recently-game/</guid>
       <description>&lt;p&gt;あれから 1ヶ月以上の月日が経った――。時間が経つのは早いですね、きんつばです。&lt;br&gt;&#xA;流石に何か書かないとなーって思ったので、最近どんなゲームやってるかってのをプレイ時間順に書いときます。&lt;/p&gt;</description>
     </item>
   </channel>

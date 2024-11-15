@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social on Kintsuba&#39;s Blog</title>
-    <link>https://kintsuba.blog/categories/social/</link>
+    <link>http://localhost:1313/categories/social/</link>
     <description>Recent content in Social on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 22 Dec 2021 15:48:57 +0900</lastBuildDate>
-    <atom:link href="https://kintsuba.blog/categories/social/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/social/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>それでもまだあなたは Friend&#43; を使いますか？</title>
-      <link>https://kintsuba.blog/article/2021/12/22/will-you-still-use-friend-plus/</link>
+      <link>http://localhost:1313/article/2021/12/22/will-you-still-use-friend-plus/</link>
       <pubDate>Wed, 22 Dec 2021 15:48:57 +0900</pubDate>
-      <guid>https://kintsuba.blog/article/2021/12/22/will-you-still-use-friend-plus/</guid>
+      <guid>http://localhost:1313/article/2021/12/22/will-you-still-use-friend-plus/</guid>
       <description>&lt;p&gt;VRChat の日本人の間では、困ったらとりあえず Friend+ という人が多い気がします。&lt;/p&gt;&#xA;&lt;p&gt;そして実際、私のフレンドも相当な数が Friend+ インスタンスにいます。&lt;/p&gt;&#xA;&lt;p&gt;私はこの状態が大変危険なのではないかと思っています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>VRChat で一週間経っても Visitor から抜け出せないあなたへ</title>
-      <link>https://kintsuba.blog/article/2021/01/10/for-eternal-visitor/</link>
+      <link>http://localhost:1313/article/2021/01/10/for-eternal-visitor/</link>
       <pubDate>Sun, 10 Jan 2021 20:07:03 +0900</pubDate>
-      <guid>https://kintsuba.blog/article/2021/01/10/for-eternal-visitor/</guid>
+      <guid>http://localhost:1313/article/2021/01/10/for-eternal-visitor/</guid>
       <description>&lt;p&gt;VRChat やってますか？やってましたか？&lt;/p&gt;&#xA;&lt;p&gt;大抵の人は一週間あれば余裕で New User になっていると思います。&#xA;ですが諸々の、主にコミュニケーション的な障害を乗り越えられなかった人もいると思います。そう、こんなタイトルの記事を読んでいるような、あなたのように。&lt;/p&gt;</description>
     </item>
     <item>
       <title>VRChat始めました</title>
-      <link>https://kintsuba.blog/blog/2020/09/13/started-vrchat/</link>
+      <link>http://localhost:1313/blog/2020/09/13/started-vrchat/</link>
       <pubDate>Sun, 13 Sep 2020 05:57:48 +0900</pubDate>
-      <guid>https://kintsuba.blog/blog/2020/09/13/started-vrchat/</guid>
+      <guid>http://localhost:1313/blog/2020/09/13/started-vrchat/</guid>
       <description>&lt;p&gt;まだまだ残暑の残る季節、いかがお過ごしでしょうか。お久しぶりなきんつばです。&lt;br&gt;&#xA;正直このブログ見るより Twitter か Misskey 見た方がいいと思います。&lt;/p&gt;&#xA;&lt;p&gt;さてさてタイトルにあります通り、私は遂に VRChat での生活をスタートさせました！すごい！えらい！&#xA;……ので、今回はその顛末について書いていきます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Misskey のすすめ</title>
-      <link>https://kintsuba.blog/blog/2019/07/27/introduce-misskey/</link>
+      <link>http://localhost:1313/blog/2019/07/27/introduce-misskey/</link>
       <pubDate>Sat, 27 Jul 2019 16:30:26 +0000</pubDate>
-      <guid>https://kintsuba.blog/blog/2019/07/27/introduce-misskey/</guid>
+      <guid>http://localhost:1313/blog/2019/07/27/introduce-misskey/</guid>
       <description>&lt;p&gt;エアコンの効いた部屋に籠りたい、きんつばです。&lt;br&gt;&#xA;台風が来るわ、日に日に暑くなるわ、夏本番って感じですね。&lt;/p&gt;&#xA;&lt;p&gt;閑話休題、みなさんは Misskey というものはご存じでしょうか。&lt;br&gt;&#xA;公式の Wiki にはこう書いてあります。&lt;/p&gt;</description>
     </item>
   </channel>

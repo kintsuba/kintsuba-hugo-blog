@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>League of Legend on Kintsuba&#39;s Blog</title>
-    <link>https://kintsuba.blog/tags/league-of-legend/</link>
+    <link>http://localhost:1313/tags/league-of-legend/</link>
     <description>Recent content in League of Legend on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 13 Feb 2020 12:52:17 +0900</lastBuildDate>
-    <atom:link href="https://kintsuba.blog/tags/league-of-legend/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/league-of-legend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最近やってるゲームとか(2020年2月)</title>
-      <link>https://kintsuba.blog/blog/2020/02/13/recently-game3/</link>
+      <link>http://localhost:1313/blog/2020/02/13/recently-game3/</link>
       <pubDate>Thu, 13 Feb 2020 12:52:17 +0900</pubDate>
-      <guid>https://kintsuba.blog/blog/2020/02/13/recently-game3/</guid>
+      <guid>http://localhost:1313/blog/2020/02/13/recently-game3/</guid>
       <description>&lt;p&gt;寒いっちゃ寒いけど、マイナスを下回らなければそこまでじゃないと思う、&lt;br&gt;&#xA;山形出身のきんつばです。手がかじかまないうちは快適。&lt;/p&gt;&#xA;&lt;p&gt;今回も私の最近のゲーム事情です。ゲームばっかりやってるから仕方ないね。&lt;/p&gt;</description>
     </item>
   </channel>

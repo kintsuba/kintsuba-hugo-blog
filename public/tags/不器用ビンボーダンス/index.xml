@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>不器用ビンボーダンス on Kintsuba&#39;s Blog</title>
-    <link>https://kintsuba.blog/tags/%E4%B8%8D%E5%99%A8%E7%94%A8%E3%83%93%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9/</link>
+    <link>http://localhost:1313/tags/%E4%B8%8D%E5%99%A8%E7%94%A8%E3%83%93%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9/</link>
     <description>Recent content in 不器用ビンボーダンス on Kintsuba&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 05 Sep 2019 07:27:34 +0000</lastBuildDate>
-    <atom:link href="https://kintsuba.blog/tags/%E4%B8%8D%E5%99%A8%E7%94%A8%E3%83%93%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E4%B8%8D%E5%99%A8%E7%94%A8%E3%83%93%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bukibin-search.com ができるまで</title>
-      <link>https://kintsuba.blog/blog/2019/09/05/bukibin-search-com/</link>
+      <link>http://localhost:1313/blog/2019/09/05/bukibin-search-com/</link>
       <pubDate>Thu, 05 Sep 2019 07:27:34 +0000</pubDate>
-      <guid>https://kintsuba.blog/blog/2019/09/05/bukibin-search-com/</guid>
-      <description>&lt;p&gt;今日はなんと私の誕生日です、きんつばです。&lt;br&gt;&#xA;&lt;a href=&#34;https://misskey.m544.net/&#34;&gt;めいすきー&lt;/a&gt;で今日誕生日なので祝ってって投稿したら、ちゃんとみんなお祝いの言葉をくれたのが嬉しかったです。&lt;/p&gt;&#xA;&lt;p&gt;さて誕生日とは何も関係なく、今回は&lt;abbr title=&#34;不器用ビンボーダンス&#34;&gt;武器瓶&lt;/abbr&gt;のファンサイトというかツールのようなものを作ったというお話です。&lt;br&gt;&#xA;不器用ビンボーダンスについてご存じない方は、&lt;a href=&#34;https://kintsuba.blog/2019/08/03/about-bukiyo-binbo-dance/&#34;&gt;前回の記事&lt;/a&gt;で語っていますのでそちらを参照ください。&lt;/p&gt;&#xA;&lt;h2 id=&#34;できたもの&#34;&gt;できたもの&lt;/h2&gt;&#xA;&lt;p&gt;ひとまず完成したものがこちらになります。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/2019/09/05/bukibin-search-com/</guid>
+      <description>&lt;p&gt;今日はなんと私の誕生日です、きんつばです。&lt;br&gt;&#xA;&lt;a href=&#34;https://misskey.m544.net/&#34;&gt;めいすきー&lt;/a&gt;で今日誕生日なので祝ってって投稿したら、ちゃんとみんなお祝いの言葉をくれたのが嬉しかったです。&lt;/p&gt;&#xA;&lt;p&gt;さて誕生日とは何も関係なく、今回は&lt;abbr title=&#34;不器用ビンボーダンス&#34;&gt;武器瓶&lt;/abbr&gt;のファンサイトというかツールのようなものを作ったというお話です。&lt;br&gt;&#xA;不器用ビンボーダンスについてご存じない方は、&lt;a href=&#34;http://localhost:1313/2019/08/03/about-bukiyo-binbo-dance/&#34;&gt;前回の記事&lt;/a&gt;で語っていますのでそちらを参照ください。&lt;/p&gt;&#xA;&lt;h2 id=&#34;できたもの&#34;&gt;できたもの&lt;/h2&gt;&#xA;&lt;p&gt;ひとまず完成したものがこちらになります。&lt;/p&gt;</description>
     </item>
     <item>
       <title>『不器用ビンボーダンス』の話をしよう</title>
-      <link>https://kintsuba.blog/blog/2019/08/03/about-bukiyo-binbo-dance/</link>
+      <link>http://localhost:1313/blog/2019/08/03/about-bukiyo-binbo-dance/</link>
       <pubDate>Sat, 03 Aug 2019 13:17:38 +0000</pubDate>
-      <guid>https://kintsuba.blog/blog/2019/08/03/about-bukiyo-binbo-dance/</guid>
+      <guid>http://localhost:1313/blog/2019/08/03/about-bukiyo-binbo-dance/</guid>
       <description>&lt;p&gt;やるゲームが多すぎて毎日忙しいです。きんつばです。&lt;br&gt;&#xA;幸せですが、時間が足りなすぎます。仕事休みたい。&lt;/p&gt;&#xA;&lt;p&gt;さて今回は、毎日更新という作者の正気を疑う漫画、『不器用ビンボーダンス』（略称:武器瓶）についてです。&lt;br&gt;&#xA;人によって好みが大きく変わるタイプの漫画だと思うので、とりあえず何話か読んで判断するといいと思います。&lt;br&gt;&#xA;以下のサイトで読めます。&lt;/p&gt;</description>
     </item>
   </channel>
