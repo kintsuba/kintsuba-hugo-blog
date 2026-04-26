@@ -9,7 +9,7 @@
 <link rel="dns-prefetch preconnect" href="https://use.fontawesome.com"  crossorigin>
 <meta name="theme-color" content="#263238">
 
-<meta name="generator" content="Hugo 0.134.2">
+<meta name="generator" content="Hugo 0.160.1">
 
 <link rel="apple-touch-icon" href="https://kintsuba.blog/images/logo.png">
 
@@ -926,7 +926,7 @@ section.footer {
 （参考: <a href="https://qiita.com/YukiIchika/items/778856a7ea92e5a2383c">https://qiita.com/YukiIchika/items/778856a7ea92e5a2383c</a>）<br>
 スプレッドシートの利便性は周知の事実ということもあり、今回はこれを採用することにしました。</p>
 <p>Nuxt.js側では以下のように取得しています。</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ts" data-lang="ts"><span style="display:flex;"><span><span style="color:#66d9ef">async</span> <span style="color:#a6e22e">fetch</span>({ <span style="color:#a6e22e">$axios</span>, <span style="color:#a6e22e">store</span> }) {
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-ts" data-lang="ts"><span style="display:flex;"><span><span style="color:#66d9ef">async</span> <span style="color:#a6e22e">fetch</span>({ <span style="color:#a6e22e">$axios</span>, <span style="color:#a6e22e">store</span> }) {
 </span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">quotes</span>: <span style="color:#66d9ef">Quote</span>[] <span style="color:#f92672">=</span> <span style="color:#66d9ef">await</span> <span style="color:#a6e22e">$axios</span>.<span style="color:#a6e22e">$get</span>(
 </span></span><span style="display:flex;"><span>      <span style="color:#e6db74">&#34;https://script.google.com/macros/s/************************************/exec&#34;</span>
 </span></span><span style="display:flex;"><span>    );
